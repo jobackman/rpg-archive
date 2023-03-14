@@ -59,3 +59,5 @@ Plan:
 - Sappa vakten
 - Häll sprit i munnen på han
 - Sätta upp vakten som att han somnade på spaken för dammen
+
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/732505/225137268-52ac868b-9654-49e2-8ca0-9210d335d861.png">
