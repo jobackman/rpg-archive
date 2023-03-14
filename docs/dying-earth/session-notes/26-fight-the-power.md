@@ -57,8 +57,58 @@ Plötsligt så är det som att hon finner sig i att hon står på en äng av rö
 Plan:
 
 - Sappa vakten
+
+  - om det går dåligt
+    - allia gör sexy-pose charm
+    - jerry vara redo med storhanden
+
 - Häll sprit i munnen på han
 - Sätta upp vakten som att han somnade på spaken för dammen
 
 <img width="481" alt="image" src="https://user-images.githubusercontent.com/732505/225139737-eb065d94-e737-4df0-b08e-7e28e91cba88.png">
 
+Allia smyger emot vakten, rullar 2d6 + 1d6 --> 4. (Allia är dice-cursed). Antingen så får hon göra sexy-pose, eller så upptäcker han henne när hon är nära.
+
+Hon gör sexy-pose, försöker charmera honom. "Hej jag har sett dig här ofta... 💋"
+
+> Halt vem där?
+
+> Sett dig sitta här om nätterna, är du alldeles själv här? vill du inte ha lite sällskap?
+
+Rullar charm 1d6 + 1d6 --> 6. Han lättnar lite och blir helt tagen av Allias charm. Mjuknar till i ansiktet
+
+> Ja du vet jag är positionerad här. Ingen som sätter sig upp mot melkodor och stans beskyddare. Vet inte om jag behövs här.
+
+> Vad sägs om att vi går till baren, de ser ut att ha kul där. Lära känna varandra lite bättre?
+
+Han går med på det. Går i riktning mot Jerry. Allia beteer sig väldigt tafatt. När de passerar den berusade mannen, Jerry, så kommer en jätteklapp som sänker honom.
+
+Jerry börjar mucka gräl som om killen försöker showoffa med den babe han kommer med här. När han släpper allias grepp, och tänker ta han om jerry så sappar Allia honom. Han är medvetslös.
+
+De lägger honom så som planerat. På veven. **Dammen öppnas.** Tömt en del av dammen.
+
+## Drömmen fortsätter...
+
+Hon befinner sig i en bisarr plats. Hör konstiga ljud. Känner ovanliga dofter. Kan svära att det finns moln i skepande nav ansikten. Morphar till ansikten. En bit bort på en kulle ser man ett stort träd. Under trädet sitter en man framför ett skrivbord. Pergamentrulle. Det är **Tamsin**. Sätter sig.
+
+Han frågar hur det är, om handen. Han berättar att han Rouya nog vill hitta ett sätt att bromsa den där. Parasiten kommer ta över mer och mer.
+
+Rouya montage:ar om vart de är, ber om hjälp för just Rakhad. Han kan inte lova nånting, men har lite resurser som kan hjälpa. Men han skulle behöva vara på plats. Han hittar oss.
+
+Rouya kommenterar på landskapet de befinner sig i. Pekar på molnen och säger
+
+> Trodde nästan jag var tillbaks i uzdal goros drömmar med ansiktena där uppe haha.
+
+> Jaha, du ser ansikten i molnen?
+
+> Oh... I see
+
+> Vi befinner oss just nu i drömlandet. Vårat psyke projicerar gärna vår egen idyll.
+
+> Ahaa.. det var därför det påminde om hem...
+
+De är överrens. Ses om en vecka. Han hittar de.
+
+Drömmen börjar fade:a ut. Suddigare. Längre bort. Vaknar i båten igen.
+
+> > > > > > > Stashed changes
