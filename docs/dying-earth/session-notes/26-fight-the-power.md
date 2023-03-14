@@ -110,5 +110,3 @@ Rouya kommenterar på landskapet de befinner sig i. Pekar på molnen och säger
 De är överrens. Ses om en vecka. Han hittar de.
 
 Drömmen börjar fade:a ut. Suddigare. Längre bort. Vaknar i båten igen.
-
-> > > > > > > Stashed changes
