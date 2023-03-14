@@ -5,14 +5,14 @@
 | Stat      |              |
 | --------- | ------------ |
 | Agility:  | ⚪️⚪️⚪️⚪️ |
-| Stealth   | ⚪️⚪️⚪️⚪️ |
+| Stealth   | ⚫️⚪️⚪️⚪️ |
 | Acrobatic | ⚪️⚪️⚪️⚪️ |
-| Fight     | ⚪️⚪️⚪️⚪️ |
+| Fight     | ⚫️⚫️⚫️⚪️ |
 | Guard     | ⚪️⚪️⚪️⚪️ |
-| Endure    | ⚪️⚪️⚪️⚪️ |
-| Study     | ⚪️⚪️⚪️⚪️ |
-| Survey    | ⚪️⚪️⚪️⚪️ |
+| Endure    | ⚫️⚪️⚪️⚪️ |
+| Study     | ⚫️⚪️⚪️⚪️ |
+| Survey    | ⚫️⚪️⚪️⚪️ |
 | Tinker    | ⚪️⚪️⚪️⚪️ |
-| Charm     | ⚪️⚪️⚪️⚪️ |
-| Command   | ⚪️⚪️⚪️⚪️ |
+| Charm     | ⚫️⚫️⚪️⚪️ |
+| Command   | ⚫️⚪️⚪️⚪️ |
 | Sorcery   | ⚪️⚪️⚪️⚪️ |
