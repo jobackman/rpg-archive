@@ -40,5 +40,6 @@ However, on Sunday, with the express permission of the selectmen, Western Union 
 the telephone exchange is open and operating, as is the B&M rail line and the local taxi service;
 restaurants, speakeasies, gift shops, or other luxurious enterprises, with a single exception never open on Sunday.
 Sunday dinners are family affairs, not commercial opportunities.
+
 ![Storefront](https://user-images.githubusercontent.com/107671583/225577659-dec9c062-8325-435b-ba5a-e91eb9a28f1a.jpg)
 
