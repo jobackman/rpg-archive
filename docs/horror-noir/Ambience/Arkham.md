@@ -6,8 +6,6 @@ a little more than 23 kilometers south of Newburyport.
 Travelers reach it by car, bus, train, or small boat.
 Fare for the B&O commuter train from Boston is $2.20, and from Newburyport is $1.40.
 ![Essex County - Lovecraft](https://user-images.githubusercontent.com/107671583/225571078-d731f891-c963-4401-a262-3c54becfdfa2.png)
-
-
 ## Arkham's Climate
 Arkham receives three or more inches of precipitation monthly throughout the year.
 Summer and fall thunderstorms are likely; occasionally a great hurricane swoops north.
@@ -27,3 +25,18 @@ and temperatures above 30°C are exceptional. In general, the evenings cool off 
 The Miskatonic is often cool for comfortable swimming, though hearty souls and young men showing off regularly make the plunge.
 In September, the weather cools, and the first light frost may fall at the end of the month. This time is sunny and breezy, with scattered showers.
 Students return to school, leaves turn, and the cycle begins again.
+## General Hours Of Business
+Financial institutions generally are open to the public from 10:00 to 15:00, Monday-Friday.
+Governmental offices are open 8:00 to 17:00, but closed at lunch-time.
+Most merchants are open from 8:00 to 17:00.
+Some, especially hardware and department stores and lumberyards stay open for part or all of Saturday.
+Sunday closures are nearly absolute.
+Shops and stores that vary from these hours are noted in their individual descriptions.
+Restaurants usually maintain hours that suit their clientele;
+early-rising Arkhamites find the notion of eating at 20:00. decadently continental and conceivably un-Christian.
+Commercial activity halts on Sunday. With certain exceptions, it is against the law (and the law will be enforced) 
+to operate any business of any kind between the hours of 6:00 and 11:00 on the Sabbath. Then we hear the sound of money only in collection plates.
+However, on Sunday, with the express permission of the selectmen, Western Union receives and delivers wires, but does not transmit them;
+the telephone exchange is open and operating, as is the B&M rail line and the local taxi service;
+restaurants, speakeasies, gift shops, or other luxurious enterprises, with a single exception never open on Sunday.
+Sunday dinners are family affairs, not commercial opportunities.
