@@ -15,7 +15,7 @@ Temperatures are brisk, with nighttime as lows as 4 degrees and daytime
 as highs as 15 degrees.
 By November, fallen leaves litter everywhere, and the trees are nearly bare.
 Occasional light snow-showers occur as early as late November, but the snow does not last, and Arkham rarely enjoys a white Christmas.
-January and February are cold, when low temperatures are normally -6°-1°C. Anything lower than -10°C is considered remarkable.
+January and February are cold, when low temperatures are normally between -6°C and -1°C. Anything lower than -10°C is considered remarkable.
 On the first weekend of February the town now celebrates Winterfest, a recently-established commercial festival.
 The merchants sponsor a parade, a snowman-building contest, and an indoor pageant to select an annual Winter Queen to rule over the festival.
 Winter thaws in March, but cool temperatures can last into early April. By the end of April, flowers begin to bloom and the trees begin to leaf.
