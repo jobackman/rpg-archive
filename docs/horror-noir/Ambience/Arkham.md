@@ -5,6 +5,8 @@ athwart the banks of the Miskatonic River, about 30 kilometers NNE of Boston,
 a little more than 23 kilometers south of Newburyport.
 Travelers reach it by car, bus, train, or small boat.
 Fare for the B&O commuter train from Boston is $2.20, and from Newburyport is $1.40.
+![Essex County - Lovecraft](https://user-images.githubusercontent.com/107671583/225571078-d731f891-c963-4401-a262-3c54becfdfa2.png)
+
 
 ## Arkham's Climate
 Arkham receives three or more inches of precipitation monthly throughout the year.
