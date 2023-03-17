@@ -179,7 +179,7 @@ growing very old near Boundary Street. Boundary north of Church Street is unlit;
 | ------------- | ------------- |
 | Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
 | Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :white_circle: :white_circle:  |
 
 <details>
   <summary>Read more about Rivertown</summary>
@@ -197,9 +197,9 @@ Most are sited with their ends to the street, the front doors opening onto small
 
 | Category  | Result |
 | ------------- | ------------- |
-| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+| Wealth  | :black_circle: :black_circle: :black_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :white_circle: :white_circle: :white_circle:  |
 
 <details>
   <summary>Read more about Campus</summary>
@@ -228,7 +228,7 @@ homes, and the families of the inhabitants have lived in them for ten generation
 | ------------- | ------------- |
 | Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
 | Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :white_circle: :white_circle:  |
 
 <details>
   <summary>Read more about French Hill</summary>
@@ -250,9 +250,9 @@ Peabody, High, and Garrison, on the southwest foot of the hill.
 
 | Category  | Result |
 | ------------- | ------------- |
-| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+| Wealth  | :black_circle: :black_circle: :black_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :black_circle: :black_circle:  |
+| Criminal Influence  | :black_circle: :white_circle: :white_circle: :white_circle:  |
 
 <details>
   <summary>Read more about Uptown</summary>
@@ -292,7 +292,7 @@ get water from wells scattered along the street.
 | Category  | Result |
 | ------------- | ------------- |
 | Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Security & Safety  | :black_circle: :white_circle: :white_circle: :white_circle:  |
 | Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
 
 <details>
