@@ -148,11 +148,55 @@ homes, and the families of the inhabitants have lived in them for ten generation
 ### French Hill District (7)
 French Hill, surmounted by the dark spire of Bayfriar's Church, includes some of Arkham's oldest homes. Still populated
 predominantly by Irish, brick row houses, gambrel roofs, and occasional decayed Georgian houses of impressive
-proportions line the hill. Some houses perch here precariously,
-tilting crazily over the narrow streets. Many of
-the lanes and alleys are no more than flights of stairs that
-twist upward to end at dark doorways.
-### (8)
-### (9)
+proportions line the hill. Some houses perch here precariously, tilting crazily over the narrow streets. Many of 
+the lanes and alleys are no more than flights of stairs that twist upward to end at dark doorways.
+
+The more prosperous Irish live on the east side of the hill and down across East Street in newer, more expensive
+homes with small front and back yards. The north slope of the hill is populated by the poorest Irish, a few Poles, and
+many of Arkham's French-Canadians. The western slope is mostly poor Irish and a few Poles.
+
+The Polish district, an area of clustered gambrel- and gable-roofed houses, is roughly the six blocks within College,
+Peabody, High, and Garrison, on the southwest foot of the hill.
+
+### Uptown District (8)
+Most of this neighborhood is well-off, but Saltonstall and High Streets deserve the most attention. Perched terracelike
+atop South Hill, overlooking campus and the river, these two brick streets are a full 60 feet wide and lined with
+fine shade trees. Mansions of Georgian/Federalist design, once mill-owner homes, line both sides of both streets from
+Boundary to Garrison. The houses are placed side by side, uniformly 12 feet back from the brick sidewalk. A small
+'green easement' four feet wide is between the sidewalk and the street.
+
+There is little space between the houses, although a few sport small gardens on the side. Descendants of the original
+families still own a few homes; University folk now own many of the houses. A few more have been purchased by
+organizations. Some are boarding houses or apartments. No commercial buildings stand in this area.
+
+Police patrols here are frequent; loitering, particularly after dark, is not permitted.
+
+Houses along narrower Pickman Street are of an earlier, more modest vintage. Here are numerous two- and threestory
+gambrel-roofed houses, mostly of wood, and many have been divided into apartments. Some are hidden behind
+other houses, reachable only by narrow alleys. Several older Georgian mansions stand out. Residents here include
+poorer faculty and older University students. These buildings are generally well-maintained.
+
+A few Georgian homes occur on Miskatonic and Washington Streets but much of this area was built up in the later
+19th century, and consist of larger Victorians owned by middle-class property-owners and professionals. Some old
+Arkham families thrive here.
+
+Hill Street is unlit and little lived-on. Houses here are ancient, tottering affairs, sagging under moss-grown gambrel
+and gable roofs. Some stand vacant; most are without electricity, gas, or town water. The dirt street is underlain by
+timbers laid down lifetimes ago.
+
+Old, disused farm buildings can be seen, half-fallen and overgrown; hidden among luxurious trees and high-standing
+grasses are long-abandoned gardens and the remains of old family plots. This area has yet to be incorporated. Residents
+get water from wells scattered along the street.
+
+### Lower Southside (9)
+Here are narrow, twisting lanes and crowded tenements. Some Irish and Poles live here, but from High Street south the area is mostly Italian.
+
+The Southside is located on low marshy ground in a pocket between French Hill and South Hill. The air is muggy in the summer, cold and damp in the winter.
+Most of the wood buildings show signs of decay. A few single homes still exist. On Powder Mill Street, south of Saltonstall,
+stand several good examples of late 18th century wooden row houses.
+
+Badly lit, always the subject of calls for reform but never changing, the neighborhood is overcrowded, noisy,
+and inhabited by some of Arkham's poorest citizens. Tiny shops, markets, and restaurants can be found here, often
+unmarked and known only to neighbors, pressed in between tenements and apartments.
 
 ![Arkham Districts](https://user-images.githubusercontent.com/107671583/225984234-dfe93fa4-ca0f-4671-816c-f26eb5890979.png)
