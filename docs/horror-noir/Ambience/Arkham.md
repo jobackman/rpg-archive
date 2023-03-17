@@ -45,11 +45,9 @@ Sunday dinners are family affairs, not commercial opportunities.
 
 ## Arkham Districts
 Arkham is divided into nine districts, three of them north of the Miskatonic river.
-<details>
-  <summary>
+
 ### Northside District (1)
 The ground in this part of town slopes up more or less steadily from the river until cresting along Derby Street.
-  </summary>
 Derby and Curwen Streets, particularly near the intersection of Brown and Jenkin, boast a number of large Georgian, Classical, and Victorian mansions. Most have large
 yards, often enclosed by stone walls and iron gates; estates along the north side of Derby may have extensive grounds.
 
@@ -57,7 +55,6 @@ South of Curwen Street begins a commercial and financial area containing many pr
 Boston & Maine rail station, and Arkham's two newspapers, the Gazette and the Advertiser.
 
 Along High Lane, stretching north out of town, is a small industrial strip home to a few small factories, but in part abandoned.
-</details>
 
 ### Downtown District (2)
 Downtown is hillier than the Northside. Although the ground rises steadily north from the river, there are dips and ridges as it climbs.
