@@ -200,3 +200,8 @@ and inhabited by some of Arkham's poorest citizens. Tiny shops, markets, and res
 unmarked and known only to neighbors, pressed in between tenements and apartments.
 
 ![Arkham Districts](https://user-images.githubusercontent.com/107671583/225984234-dfe93fa4-ca0f-4671-816c-f26eb5890979.png)
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
