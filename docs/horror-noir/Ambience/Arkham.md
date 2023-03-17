@@ -3,37 +3,51 @@
 Arkham is in the Commonwealth of Massachusetts, not far from the Atlantic Ocean,
 athwart the banks of the Miskatonic River, about 30 kilometers NNE of Boston,
 a little more than 23 kilometers south of Newburyport.
+
 Travelers reach it by car, bus, train, or small boat.
+
 Fare for the B&O commuter train from Boston is $2.20, and from Newburyport is $1.40.
+
 ![Essex County - Lovecraft](https://user-images.githubusercontent.com/107671583/225571078-d731f891-c963-4401-a262-3c54becfdfa2.png)
+
 ## Arkham's Climate
-Arkham receives three or more inches of precipitation monthly throughout the year.
-Summer and fall thunderstorms are likely; occasionally a great hurricane swoops north.
-Winter storms occasionally can be severe. Temperature varies more than rainfall.
+Arkham receives three or more inches of precipitation monthly throughout the year. Summer and fall thunderstorms are likely;
+occasionally a great hurricane swoops north. Winter storms occasionally can be severe. Temperature varies more than rainfall.
+
 Early October shows Arkham's trees in full autumn color. The hills become fabulous carpets of reds, yellows, and golds.
-Temperatures are brisk, with nighttime as lows as 4 degrees and daytime
-as highs as 15 degrees.
-By November, fallen leaves litter everywhere, and the trees are nearly bare.
-Occasional light snow-showers occur as early as late November, but the snow does not last, and Arkham rarely enjoys a white Christmas.
+Temperatures are brisk, with nighttime as lows as 4 degrees and daytime as highs as 15 degrees.
+
+By November, fallen leaves litter everywhere, and the trees are nearly bare. Occasional light snow-showers occur as early as late November,
+but the snow does not last, and Arkham rarely enjoys a white Christmas.
+
 January and February are cold, when low temperatures are normally between -6°C and -1°C. Anything lower than -10°C is considered remarkable.
 On the first weekend of February the town now celebrates Winterfest, a recently-established commercial festival.
 The merchants sponsor a parade, a snowman-building contest, and an indoor pageant to select an annual Winter Queen to rule over the festival.
+
 Winter thaws in March, but cool temperatures can last into early April. By the end of April, flowers begin to bloom and the trees begin to leaf.
+
 May and June bring the first 20°C days, and July the first summer heat. In August, when the onshore breezes fail, temperatures can soar to 35°C and more.
 The air hangs in the valley, humid and stagnant, creating uncomfortably sticky days and nights. These periods are usually short, however,
 and temperatures above 30°C are exceptional. In general, the evenings cool off considerably and, especially near the river, a light jacket might be considered.
 The Miskatonic is often cool for comfortable swimming, though hearty souls and young men showing off regularly make the plunge.
+
 In September, the weather cools, and the first light frost may fall at the end of the month. This time is sunny and breezy, with scattered showers.
 Students return to school, leaves turn, and the cycle begins again.
+
 ## General Hours Of Business
 Financial institutions generally are open to the public from 10:00 to 15:00, Monday-Friday.
+
 Governmental offices are open 8:00 to 17:00, but closed at lunch-time.
+
 Most merchants are open from 8:00 to 17:00.
-Some, especially hardware and department stores and lumberyards stay open for part or all of Saturday.
-Sunday closures are nearly absolute.
+
+Some, especially hardware and department stores and lumberyards stay open for part or all of Saturday. Sunday closures are nearly absolute.
+
 Shops and stores that vary from these hours are noted in their individual descriptions.
-Restaurants usually maintain hours that suit their clientele;
-early-rising Arkhamites find the notion of eating at 20:00. decadently continental and conceivably un-Christian.
+
+Restaurants usually maintain hours that suit their clientele; early-rising Arkhamites find the notion of eating at 20:00
+decadently continental and conceivably un-Christian.
+
 Commercial activity halts on Sunday. With certain exceptions, it is against the law (and the law will be enforced) 
 to operate any business of any kind between the hours of 6:00 and 11:00 on the Sabbath. Then we hear the sound of money only in collection plates.
 However, on Sunday, with the express permission of the selectmen, Western Union receives and delivers wires, but does not transmit them;
@@ -47,6 +61,15 @@ Sunday dinners are family affairs, not commercial opportunities.
 Arkham is divided into nine districts, three of them north of the Miskatonic river.
 
 ### Northside District (1)
+
+| Category  | Result |
+| ------------- | ------------- |
+| Wealth  | :black_circle: :black_circle: :black_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :white_circle: :white_circle: :white_circle:  |
+
+<details>
+  <summary>Read more about Northside</summary>
 The ground in this part of town slopes up more or less steadily from the river until cresting along Derby Street.
 Derby and Curwen Streets, particularly near the intersection of Brown and Jenkin, boast a number of large Georgian, Classical, and Victorian mansions. Most have large
 yards, often enclosed by stone walls and iron gates; estates along the north side of Derby may have extensive grounds.
@@ -55,8 +78,18 @@ South of Curwen Street begins a commercial and financial area containing many pr
 Boston & Maine rail station, and Arkham's two newspapers, the Gazette and the Advertiser.
 
 Along High Lane, stretching north out of town, is a small industrial strip home to a few small factories, but in part abandoned.
+</details>
 
 ### Downtown District (2)
+
+| Category  | Result |
+| ------------- | ------------- |
+| Wealth  | :black_circle: :black_circle: :white_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+
+<details>
+  <summary>Read more about Downtown</summary>
 Downtown is hillier than the Northside. Although the ground rises steadily north from the river, there are dips and ridges as it climbs.
 The town square is the most level part of Downtown.
 
@@ -74,8 +107,19 @@ Many have been divided into apartments or boarding houses.
 A small area along Garrison Street features good restaurants and a variety of family entertainment. This area may be busy on weekend evenings, unusual in Arkham.
 Peabody Avenue, Fish Street, and Federal Street are lined with small shops and industries, constituting one of Arkham's dirtier, smellier areas.
 A few local markets and diners also appear there. Several abandoned mills decay at the water's edge.
+</details>
 
-### Eastdown District (3)
+### Easttown District (3)
+
+| Category  | Result |
+| ------------- | ------------- |
+| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+
+<details>
+  <summary>Read more about Easttown</summary>
+
 The northern part of Easttown, above Whately Street, contains many fine old homes of pure Georgian design.
 These homes were built by Derbys, Ornes, Pickmans, and Pickerings—the sea merchants who made up Arkham's first aristocracy.
 Most of these homes, unfortunately, have fallen into neglect; as a whole, Easttown is seedy and decaying, some of it beyond repair.
@@ -91,8 +135,19 @@ the slave trade. As a group, though, they are poor and feel looked at and looked
 
 A number of small businesses exist along Armitage and River Streets. Freight trains pass through day and night. 
 Arkham's last operating textile mill, steam-powered, can be found here.
+</details>
 
 ### Merchant District (4)
+
+| Category  | Result |
+| ------------- | ------------- |
+| Wealth  | :black_circle: :black_circle: :white_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+
+<details>
+  <summary>Read more about Northside</summary>
+
 This narrow two-block stretch lies on low, level ground near the river. Perhaps 75% of Arkham's stores and shops can be
 found here: Church Street is the most important artery, and Main is of secondary importance. People ordinarily call
 such an area downtown; here they say instead "Goin' to Merchant" since Downtown is a part of town north of the river.
@@ -116,8 +171,19 @@ Here the street is clearer, the result of a volunteer effort in 1926.
 The two shopping blocks east of Garrison and south of Main are composed of shops housed in buildings older and less impressive than those along Church Street. Many are
 tightly-crowded converted residences. The tall Georgian steeple of Christ Church dominates the skyline. This neighborhood's western edge is of older residences,
 growing very old near Boundary Street. Boundary north of Church Street is unlit; north of Main the street is sparsely populated.
+</details>
 
 ### Rivertown District (5)
+
+| Category  | Result |
+| ------------- | ------------- |
+| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+
+<details>
+  <summary>Read more about Rivertown</summary>
+
 This section of town lies partially on the north face of French Hill, which slopes steeply toward the Miskatonic River before flattening at River Street.
 
 Inhabitants south of River Street tend to be French-Canadian or East European, the population becoming more and more Irish as the hill ascends.
@@ -125,8 +191,19 @@ Inhabitants south of River Street tend to be French-Canadian or East European, t
 This is the old trade district of Arkham. Long-time outlets such as the Arkham General Store remain here.
 Many of Arkham's skilled tradesmen, native and immigrant, here combine homes and shops. The houses are modest, old, and built tightly along the streets.
 Most are sited with their ends to the street, the front doors opening onto small courts or lanes that lead to the streets.
-
+</details>
+  
 ### Campus District (6)
+
+| Category  | Result |
+| ------------- | ------------- |
+| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+
+<details>
+  <summary>Read more about Campus</summary>
+
 The campus area is an Arkham showplace. Landscaped and kept immaculately clean, the University grounds are a cool and shady place for a summer walk.
 Almost all of the University's buildings are found here, including the hospital and the field house.
 
@@ -143,8 +220,19 @@ West of Boundary Street are blocks of older, more modest residences. Hill Street
 a foundation of ancient rotting timbers, poking up through the road in places. Residents here lack sewers, and draw
 water from one of three public wells along the street. This very rustic section of town contains many 17th century
 homes, and the families of the inhabitants have lived in them for ten generations and more, datable to the first settlement of Arkham.
+</details>
 
 ### French Hill District (7)
+
+| Category  | Result |
+| ------------- | ------------- |
+| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+
+<details>
+  <summary>Read more about French Hill</summary>
+
 French Hill, surmounted by the dark spire of Bayfriar's Church, includes some of Arkham's oldest homes. Still populated
 predominantly by Irish, brick row houses, gambrel roofs, and occasional decayed Georgian houses of impressive
 proportions line the hill. Some houses perch here precariously, tilting crazily over the narrow streets. Many of 
@@ -156,8 +244,19 @@ many of Arkham's French-Canadians. The western slope is mostly poor Irish and a 
 
 The Polish district, an area of clustered gambrel- and gable-roofed houses, is roughly the six blocks within College,
 Peabody, High, and Garrison, on the southwest foot of the hill.
+</details>
 
 ### Uptown District (8)
+
+| Category  | Result |
+| ------------- | ------------- |
+| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+
+<details>
+  <summary>Read more about Uptown</summary>
+
 Most of this neighborhood is well-off, but Saltonstall and High Streets deserve the most attention. Perched terracelike
 atop South Hill, overlooking campus and the river, these two brick streets are a full 60 feet wide and lined with
 fine shade trees. Mansions of Georgian/Federalist design, once mill-owner homes, line both sides of both streets from
@@ -186,8 +285,19 @@ timbers laid down lifetimes ago.
 Old, disused farm buildings can be seen, half-fallen and overgrown; hidden among luxurious trees and high-standing
 grasses are long-abandoned gardens and the remains of old family plots. This area has yet to be incorporated. Residents
 get water from wells scattered along the street.
+</details>
 
 ### Lower Southside (9)
+
+| Category  | Result |
+| ------------- | ------------- |
+| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
+| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+
+<details>
+  <summary>Read more about Northside</summary>
+
 Here are narrow, twisting lanes and crowded tenements. Some Irish and Poles live here, but from High Street south the area is mostly Italian.
 
 The Southside is located on low marshy ground in a pocket between French Hill and South Hill. The air is muggy in the summer, cold and damp in the winter.
@@ -197,10 +307,6 @@ stand several good examples of late 18th century wooden row houses.
 Badly lit, always the subject of calls for reform but never changing, the neighborhood is overcrowded, noisy,
 and inhabited by some of Arkham's poorest citizens. Tiny shops, markets, and restaurants can be found here, often
 unmarked and known only to neighbors, pressed in between tenements and apartments.
+</details>
 
 ![Arkham Districts](https://user-images.githubusercontent.com/107671583/225984234-dfe93fa4-ca0f-4671-816c-f26eb5890979.png)
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
