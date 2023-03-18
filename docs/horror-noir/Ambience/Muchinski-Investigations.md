@@ -23,5 +23,7 @@ Currently the Bureau consists of Tristan Hunton, Lord James William Cromwell (Pa
 
 ## Cases
 Since Thelma Left the bureau have had the following cases that requires extra attention:
+
 1. 24th of October, 1921 - The Case of Richard Cardigan, who was missing
 2. 29th of October, 1921 - The Orchard Run incident
+3. 30th of October, 1921 - The brutal serial killer in Bolton
