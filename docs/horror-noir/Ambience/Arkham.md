@@ -291,7 +291,7 @@ get water from wells scattered along the street.
 
 | Category  | Result |
 | ------------- | ------------- |
-| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
+| Wealth  | :white_circle: :white_circle: :white_circle: :white_circle: |
 | Security & Safety  | :black_circle: :white_circle: :white_circle: :white_circle:  |
 | Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
 
