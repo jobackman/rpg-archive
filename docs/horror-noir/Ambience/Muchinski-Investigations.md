@@ -7,7 +7,7 @@ Thelma started this agency when her friend Loretta Madison got killed and the po
 With some minor help from her friends Tristan and James she solved the crime, and found the murderer.
 Thelma had talent for the art of investigation, and with her connections among the crème de la crème, she got hired to solve several cases that required discretion.
 
-In the fall of 1920, John Q. Wood the U.S. consul in Venice and an old friend of Thelma, convinced Thelma to be responsible for the security of the consulate.
+In the fall of 1921, John Q. Wood the U.S. consul in Venice and an old friend of Thelma, convinced Thelma to be responsible for the security of the consulate.
 With 29.000 americans visiting Venice every year, it was a quite busy place.
 
 The assignment was interesting enough for Thelma to first convince Tristan som become a full time investigator, and giving him the responsibility to take care of the
@@ -17,3 +17,11 @@ bureau and its good reputation, and later she also convinced James to become a p
 
 The small basement office located at 561 E. Lich Street, is hired from the Land Lady Olga Schiltzen, who also is an old friend of Thelma, but still very keen in getting
 the rent paid every month.
+
+## Investigators
+Currently the Bureau consists of Tristan Hunton, Lord James William Cromwell (Part time), Stephen Gray and Guillaume de la Merde.
+
+## Cases
+Since Thelma Left the bureau have had the following cases that requires extra attention:
+1. 24th of October, 1921 - The Case of Richard Cardigan, who was missing
+2. 29th of October, 1921 - The Orchard Run incident
