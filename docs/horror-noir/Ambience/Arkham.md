@@ -143,7 +143,7 @@ Arkham's last operating textile mill, steam-powered, can be found here.
 | ------------- | ------------- |
 | Wealth  | :black_circle: :black_circle: :white_circle: :white_circle: |
 | Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Criminal Influence  | :black_circle: :black_circle: :black_circle: :black_circle:  |
 
 <details>
   <summary>Read more about Northside</summary>
