@@ -66,13 +66,6 @@ Arkham is divided into nine districts, three of them north of the Miskatonic riv
 | --- | --- | --- |
 | :black_circle: :black_circle: :black_circle: :white_circle: | :black_circle: :black_circle: :white_circle: :white_circle:  | :black_circle: :white_circle: :white_circle: :white_circle:  |
 
-
-| Category  | Result |
-| ------------- | ------------- |
-| Wealth  | :black_circle: :black_circle: :black_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :white_circle: :white_circle: :white_circle:  |
-
 <details>
   <summary>Read more about Northside</summary>
 The ground in this part of town slopes up more or less steadily from the river until cresting along Derby Street.
@@ -87,11 +80,9 @@ Along High Lane, stretching north out of town, is a small industrial strip home 
 
 ### Downtown District (2)
 
-| Category  | Result |
-| ------------- | ------------- |
-| Wealth  | :black_circle: :black_circle: :white_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :black_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Wealth  | Security & Safety | Criminal Influence |
+| --- | --- | --- |
+| :black_circle: :black_circle: :white_circle: :white_circle: | :black_circle: :black_circle: :black_circle: :white_circle:  | :black_circle: :black_circle: :white_circle: :white_circle:  |
 
 <details>
   <summary>Read more about Downtown</summary>
@@ -116,11 +107,9 @@ A few local markets and diners also appear there. Several abandoned mills decay 
 
 ### Easttown District (3)
 
-| Category  | Result |
-| ------------- | ------------- |
-| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+| Wealth  | Security & Safety | Criminal Influence |
+| --- | --- | --- |
+| :black_circle: :white_circle: :white_circle: :white_circle: | :black_circle: :black_circle: :white_circle: :white_circle:  | :black_circle: :black_circle: :black_circle: :white_circle:  |
 
 <details>
   <summary>Read more about Easttown</summary>
@@ -144,11 +133,9 @@ Arkham's last operating textile mill, steam-powered, can be found here.
 
 ### Merchant District (4)
 
-| Category  | Result |
-| ------------- | ------------- |
-| Wealth  | :black_circle: :black_circle: :white_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :black_circle: :black_circle:  |
+| Wealth  | Security & Safety | Criminal Influence |
+| --- | --- | --- |
+| :black_circle: :black_circle: :white_circle: :white_circle: | :black_circle: :black_circle: :white_circle: :white_circle:  | :black_circle: :black_circle: :black_circle: :black_circle:  |
 
 <details>
   <summary>Read more about Northside</summary>
@@ -180,11 +167,9 @@ growing very old near Boundary Street. Boundary north of Church Street is unlit;
 
 ### Rivertown District (5)
 
-| Category  | Result |
-| ------------- | ------------- |
-| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Wealth  | Security & Safety | Criminal Influence |
+| --- | --- | --- |
+| :black_circle: :white_circle: :white_circle: :white_circle: | :black_circle: :black_circle: :white_circle: :white_circle:  || :black_circle: :black_circle: :white_circle: :white_circle: |
 
 <details>
   <summary>Read more about Rivertown</summary>
@@ -200,11 +185,9 @@ Most are sited with their ends to the street, the front doors opening onto small
   
 ### Campus District (6)
 
-| Category  | Result |
-| ------------- | ------------- |
-| Wealth  | :black_circle: :black_circle: :black_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :black_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :white_circle: :white_circle: :white_circle:  |
+| Wealth  | Security & Safety | Criminal Influence |
+| --- | --- | --- |
+| :black_circle: :black_circle: :black_circle: :white_circle: | :black_circle: :black_circle: :black_circle: :white_circle:  | :black_circle: :white_circle: :white_circle: :white_circle:  |
 
 <details>
   <summary>Read more about Campus</summary>
@@ -229,11 +212,9 @@ homes, and the families of the inhabitants have lived in them for ten generation
 
 ### French Hill District (7)
 
-| Category  | Result |
-| ------------- | ------------- |
-| Wealth  | :black_circle: :white_circle: :white_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :white_circle: :white_circle:  |
+| Wealth  | Security & Safety | Criminal Influence |
+| --- | --- | --- |
+| :black_circle: :white_circle: :white_circle: :white_circle: | :black_circle: :black_circle: :white_circle: :white_circle:  | :black_circle: :black_circle: :white_circle: :white_circle:  |
 
 <details>
   <summary>Read more about French Hill</summary>
@@ -253,11 +234,9 @@ Peabody, High, and Garrison, on the southwest foot of the hill.
 
 ### Uptown District (8)
 
-| Category  | Result |
-| ------------- | ------------- |
-| Wealth  | :black_circle: :black_circle: :black_circle: :white_circle: |
-| Security & Safety  | :black_circle: :black_circle: :black_circle: :black_circle:  |
-| Criminal Influence  | :black_circle: :white_circle: :white_circle: :white_circle:  |
+| Wealth  | Security & Safety | Criminal Influence |
+| --- | --- | --- |
+| :black_circle: :black_circle: :black_circle: :white_circle: | :black_circle: :black_circle: :black_circle: :black_circle:  | :black_circle: :white_circle: :white_circle: :white_circle:  |
 
 <details>
   <summary>Read more about Uptown</summary>
@@ -294,11 +273,9 @@ get water from wells scattered along the street.
 
 ### Lower Southside (9)
 
-| Category  | Result |
-| ------------- | ------------- |
-| Wealth  | :white_circle: :white_circle: :white_circle: :white_circle: |
-| Security & Safety  | :black_circle: :white_circle: :white_circle: :white_circle:  |
-| Criminal Influence  | :black_circle: :black_circle: :black_circle: :white_circle:  |
+| Wealth  | Security & Safety | Criminal Influence |
+| --- | --- | --- |
+| :white_circle: :white_circle: :white_circle: :white_circle: | :black_circle: :white_circle: :white_circle: :white_circle:  | :black_circle: :black_circle: :black_circle: :white_circle:  |
 
 <details>
   <summary>Read more about Northside</summary>
