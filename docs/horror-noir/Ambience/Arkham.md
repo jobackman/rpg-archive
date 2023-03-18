@@ -62,6 +62,11 @@ Arkham is divided into nine districts, three of them north of the Miskatonic riv
 
 ### Northside District (1)
 
+| Wealth  | Security & Safety | Criminal Influence |
+| --- | --- | --- |
+| :black_circle: :black_circle: :black_circle: :white_circle: | :black_circle: :black_circle: :white_circle: :white_circle:  | :black_circle: :white_circle: :white_circle: :white_circle:  |
+
+
 | Category  | Result |
 | ------------- | ------------- |
 | Wealth  | :black_circle: :black_circle: :black_circle: :white_circle: |
