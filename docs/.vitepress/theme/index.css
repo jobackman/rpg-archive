@@ -1,5 +1,6 @@
 .medium-zoom-overlay {
   z-index: 20;
+  backdrop-filter: blur(10px);
 }
 
 .medium-zoom-image {
