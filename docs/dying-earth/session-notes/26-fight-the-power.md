@@ -110,3 +110,9 @@ Rouya kommenterar på landskapet de befinner sig i. Pekar på molnen och säger
 De är överrens. Ses om en vecka. Han hittar de.
 
 Drömmen börjar fade:a ut. Suddigare. Längre bort. Vaknar i båten igen.
+
+![image](https://user-images.githubusercontent.com/732505/226375592-e87e432c-7d14-4e91-9321-5a09b137b944.png 'The dreamscape #1')
+
+![image](https://user-images.githubusercontent.com/732505/226375634-8b8c8cc9-9491-40cc-83b8-09ef518b9d33.png 'The dreamscape #2')
+
+
