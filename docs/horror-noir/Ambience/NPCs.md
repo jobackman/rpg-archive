@@ -2,11 +2,19 @@
 On this page I will collect all NPC's you interact with, some of them will be neighbors or other reoccuring characters, but also some characters that show up in some specific cases, that could perhaps reoccur. 
 
 ## Arthur Sheffield
+![Arthur Sheffield](https://user-images.githubusercontent.com/107671583/227661504-0ca97e61-7c5e-4c83-a769-6e5517f6be7d.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227661515-2f66578b-7fcd-45c9-8050-dd181a1c9790.png)
+
 Arthur is 59 years old. Have lived at 450 W. Derby Street for about 20 years, and knows the are and the neighbors well. He is a very likable man, or at least he wants
 to be liked. He works as an architect, and have actually drawn the blueprint to his and Hightower’s house, who are almost identical. On his spare time he likes to do
 oil paintings.
 
 ## Bernard Hightower
+![Bernard Hightower](https://user-images.githubusercontent.com/107671583/227661120-26eda64a-becf-47d5-b2d1-ffdfedc083c1.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227661222-5bb3716b-1c22-4065-9913-53133032c103.png)
+
 Bernard Hightower, 39 years old, a widower since 12 years back. Bernard is the owner of the successful company Hightower Importers of America, which imports medical
 supply. Bernard is also an avid gardener, and the neighbors, are often recipients of produce from his bountiful vegetable patch. In a greenhouse off the back of the
 house he raises orchids and other exotic flora. Mr Hightower is a kind and gentle individual, but have been unfortunate in his life, but despite that keeps his mood
