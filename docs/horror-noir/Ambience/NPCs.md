@@ -18,7 +18,7 @@ research, one quite likely to be willing to help solve a complicated genealogica
 Henry Atwater Sr. is actually the young student Henry Atwater in Sermon Bishop's undying body. When the now late Richard Cardigan and Henry Atwater in late October 1921
 was camping outside Arkham, they got attacked by Sermon Bishop who killed Richard, and swapped body with Henry. Later Sermon Bishop died with Henry's body, Henry had no
 other possibility than continue to live in this old mans body. Herbert Cardigan, Richard's dad, had a good eye to Henry, and also felt sorry for him and gave him a
-starting capital, to start a new life and also helped to generate papers for the Henry Atwater's granddad Henry Atwater Sr. 
+starting capital, to start a new life and also helped to generate papers for the Henry Atwater's "granddad" Henry Atwater Sr. 
 
 ![Henry Atwater in Sermon Bishops body](https://user-images.githubusercontent.com/107671583/227565443-1115f66a-b85b-4240-895d-f60ca51a65bf.png)
 
