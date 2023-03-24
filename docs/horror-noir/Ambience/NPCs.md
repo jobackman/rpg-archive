@@ -24,6 +24,13 @@ starting capital, to start a new life and also helped to generate papers for the
 
 When Henry was found in Bishop's body he was in quite bad condition, but healed surprisingly fast and well.
 
+## Pay Stuckey
+![Ray Stuckey 246x246](https://user-images.githubusercontent.com/107671583/227589404-1fa7f9bf-1906-4d56-b49e-e16061ea31fe.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227589417-11a27dcf-2135-4c3a-a9e6-905043491ed9.png)
+
+Police...
+
 ## Retribution 'Granpa' Phillips
 ![Retribution 'Granpa' Phillips](https://user-images.githubusercontent.com/107671583/227552836-ecbedb20-d41c-4b7d-a820-988572dc5ef6.png)
 
