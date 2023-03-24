@@ -43,8 +43,18 @@ starting capital, to start a new life and also helped to generate papers for the
 
 When Henry was found in Bishop's body he was in quite bad condition, but healed surprisingly fast and well.
 
+## Martha and Timothy Durant
+![Martha and Timothy Durant](https://user-images.githubusercontent.com/107671583/227663111-6b00bde2-4598-4e49-beee-297181c85f92.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227663142-7ec618c7-203a-4ad1-ac65-2188ecc80094.png)
+
+The young married couple Timothy and Martha Durant, 25 and 26 years old respectively, lives in the house to the left of Thelma's house. They are quite new to this
+neighborhood, having only lived here for 5 years. Their house was sold to them at a greatly reduced price as a wedding present from the real estate agent aunt of
+Timothy. Martha is a house wife, quite talkative and friendly, but have a tendency to exagerate things. Timothy work as a Sales Person, and is also very easy to talk
+with.
+
 ## Ray Stuckey
-![Ray Stuckey 246x246](https://user-images.githubusercontent.com/107671583/227589404-1fa7f9bf-1906-4d56-b49e-e16061ea31fe.png)
+![Ray Stuckey](https://user-images.githubusercontent.com/107671583/227589404-1fa7f9bf-1906-4d56-b49e-e16061ea31fe.png)
 
 [High Resolution Photo](https://user-images.githubusercontent.com/107671583/227589417-11a27dcf-2135-4c3a-a9e6-905043491ed9.png)
 
