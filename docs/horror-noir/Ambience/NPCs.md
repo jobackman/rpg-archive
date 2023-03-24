@@ -20,6 +20,12 @@ supply. Bernard is also an avid gardener, and the neighbors, are often recipient
 house he raises orchids and other exotic flora. Mr Hightower is a kind and gentle individual, but have been unfortunate in his life, but despite that keeps his mood
 up. He lives at 456 W. Derby Street.
 
+## Denise Braithwait
+![Denise Braithwait](https://user-images.githubusercontent.com/107671583/227663719-688434e9-928d-410d-a032-c64c43be0f4d.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227663730-95572c86-0765-42d2-9994-1afbf60550a3.png)
+
+
 ## E. Lapham Peabody
 ![E  Lapham Peabody](https://user-images.githubusercontent.com/107671583/227541297-f34594a8-7249-4cf3-90ca-dc0592a27297.png)
 
@@ -68,6 +74,12 @@ Police Lieutenant Ray Stuckey at the Arkham Police.
 Retribution Phillips, age 100 years, lives in a small 17th century house along Sutton Road off the Aylesbury Pike, where his forebears have dwelled for over 200 years.
 Grampa Phillips is a very friendly and social man who has a severe hearing impairment which unfortunately makes him mishear things, but he is not so troubled by that.
 He also have a good access to quite good quality moonshine, either he knows someone who produces it, or perhaps he does it himself.
+
+## Sharon Braithwait
+![Sharon Braithwait](https://user-images.githubusercontent.com/107671583/227663779-ed6d84b3-482b-4c58-b224-100656405747.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227663792-b44e0b11-504d-49e2-9267-e806f9db39e7.png)
+
 
 ## Thelma L. Muchinski
 ![Thelma L Muchinski](https://user-images.githubusercontent.com/107671583/227660469-010dce06-d8e9-4454-abc0-883f32b267a2.png)
