@@ -6,7 +6,7 @@ On this page I will collect all NPC's you interact with, some of them will be ne
 
 [High Resolution Photo](https://user-images.githubusercontent.com/107671583/227661515-2f66578b-7fcd-45c9-8050-dd181a1c9790.png)
 
-Arthur is 59 years old. Have lived at 450 W. Derby Street for about 20 years, and knows the are and the neighbors well. He is a very likable man, or at least he wants
+Arthur is 59 years old. Have lived at 450 W. Derby Street for about 20 years, and knows the area and the neighbors well. He is a very likable man, or at least he wants
 to be liked. He works as an architect, and have actually drawn the blueprint to his and Hightower’s house, who are almost identical. On his spare time he likes to do
 oil paintings.
 
