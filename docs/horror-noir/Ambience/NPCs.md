@@ -1,6 +1,17 @@
 # NPCs
 On this page I will collect all NPC's you interact with, some of them will be neighbors or other reoccuring characters, but also some characters that show up in some specific cases, that could perhaps reoccur. 
 
+## Arthur Sheffield
+Arthur is 59 years old. Have lived at 450 W. Derby Street for about 20 years, and knows the are and the neighbors well. He is a very likable man, or at least he wants
+to be liked. He works as an architect, and have actually drawn the blueprint to his and Hightower’s house, who are almost identical. On his spare time he likes to do
+oil paintings.
+
+## Bernard Hightower
+Bernard Hightower, 39 years old, a widower since 12 years back. Bernard is the owner of the successful company Hightower Importers of America, which imports medical
+supply. Bernard is also an avid gardener, and the neighbors, are often recipients of produce from his bountiful vegetable patch. In a greenhouse off the back of the
+house he raises orchids and other exotic flora. Mr Hightower is a kind and gentle individual, but have been unfortunate in his life, but despite that keeps his mood
+up. He lives at 456 W. Derby Street.
+
 ## E. Lapham Peabody
 ![E  Lapham Peabody](https://user-images.githubusercontent.com/107671583/227541297-f34594a8-7249-4cf3-90ca-dc0592a27297.png)
 
@@ -24,7 +35,7 @@ starting capital, to start a new life and also helped to generate papers for the
 
 When Henry was found in Bishop's body he was in quite bad condition, but healed surprisingly fast and well.
 
-## Pay Stuckey
+## Ray Stuckey
 ![Ray Stuckey 246x246](https://user-images.githubusercontent.com/107671583/227589404-1fa7f9bf-1906-4d56-b49e-e16061ea31fe.png)
 
 [High Resolution Photo](https://user-images.githubusercontent.com/107671583/227589417-11a27dcf-2135-4c3a-a9e6-905043491ed9.png)
@@ -39,3 +50,10 @@ Police Lieutenant Ray Stuckey at the Arkham Police.
 Retribution Phillips, age 100 years, lives in a small 17th century house along Sutton Road off the Aylesbury Pike, where his forebears have dwelled for over 200 years.
 Grampa Phillips is a very friendly and social man who has a severe hearing impairment which unfortunately makes him mishear things, but he is not so troubled by that.
 He also have a good access to quite good quality moonshine, either he knows someone who produces it, or perhaps he does it himself.
+
+## Thelma L. Muchinski
+![Thelma L Muchinski](https://user-images.githubusercontent.com/107671583/227660469-010dce06-d8e9-4454-abc0-883f32b267a2.png)
+
+[Higher Resolution Photo](https://user-images.githubusercontent.com/107671583/227660485-6c6a39e1-1b52-4118-8274-d1e62a43245d.png)
+
+Has the biggest house in her neighborhood. Her house, at 454 W. Derby Street, has been hers for 12 years. Besides being rich and live in a big house, she also happen to own L. Muchinski Investigations, Right now she is working in Venice Italy, and let her work companion Tristan take care of both her house and bureau.
