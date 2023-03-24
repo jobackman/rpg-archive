@@ -10,6 +10,13 @@ Mr. E. Lapham Peabody, 61, is the Arkham Historical Society's curator since over
 of most of the church and town records, library holdings, historical societies, and graveyards found in the Miskatonic Valley region. Peabody is a valuable ally in
 research, one quite likely to be willing to help solve a complicated genealogical puzzle.
 
+## Henry Atwater Sr.
+![Henry Atwater Sr.](https://user-images.githubusercontent.com/107671583/227559664-5e15cd04-20f5-4626-a1b3-5ccfe7051811.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227559692-07105f70-9d1d-494b-ad39-d45ec31d145d.png)
+
+XXX
+
 ## Retribution 'Granpa' Phillips
 ![Retribution 'Granpa' Phillips](https://user-images.githubusercontent.com/107671583/227552836-ecbedb20-d41c-4b7d-a820-988572dc5ef6.png)
 
