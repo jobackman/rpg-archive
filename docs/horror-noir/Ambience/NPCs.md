@@ -29,7 +29,7 @@ When Henry was found in Bishop's body he was in quite bad condition, but healed 
 
 [High Resolution Photo](https://user-images.githubusercontent.com/107671583/227589417-11a27dcf-2135-4c3a-a9e6-905043491ed9.png)
 
-Police...
+Police Lieutenant Ray Stuckey at the Arkham Police.
 
 ## Retribution 'Granpa' Phillips
 ![Retribution 'Granpa' Phillips](https://user-images.githubusercontent.com/107671583/227552836-ecbedb20-d41c-4b7d-a820-988572dc5ef6.png)
