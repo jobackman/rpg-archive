@@ -6,7 +6,7 @@ On this page I will collect all NPC's you interact with, some of them will be ne
 
 [High Resolution Photo](https://user-images.githubusercontent.com/107671583/227661515-2f66578b-7fcd-45c9-8050-dd181a1c9790.png)
 
-Arthur is 59 years old. Have lived at 450 W. Derby Street for about 20 years, and knows the area and the neighbors well. He is a very likable man, or at least he wants
+One of Thelma's Neighbors. Arthur is 59 years old. Have lived at 450 W. Derby Street for about 20 years, and knows the area and the neighbors well. He is a very likable man, or at least he wants
 to be liked. He works as an architect, and have actually drawn the blueprint to his and Hightower’s house, who are almost identical. On his spare time he likes to do
 oil paintings.
 
@@ -15,7 +15,7 @@ oil paintings.
 
 [High Resolution Photo](https://user-images.githubusercontent.com/107671583/227661222-5bb3716b-1c22-4065-9913-53133032c103.png)
 
-Bernard Hightower, 39 years old, a widower since 12 years back. Bernard is the owner of the successful company Hightower Importers of America, which imports medical
+Also a neighbor to Thelma. Bernard Hightower, 39 years old, a widower since 12 years back. Bernard is the owner of the successful company Hightower Importers of America, which imports medical
 supply. Bernard is also an avid gardener, and the neighbors, are often recipients of produce from his bountiful vegetable patch. In a greenhouse off the back of the
 house he raises orchids and other exotic flora. Mr Hightower is a kind and gentle individual, but have been unfortunate in his life, but despite that keeps his mood
 up. He lives at 456 W. Derby Street.
@@ -64,4 +64,16 @@ He also have a good access to quite good quality moonshine, either he knows some
 
 [Higher Resolution Photo](https://user-images.githubusercontent.com/107671583/227660485-6c6a39e1-1b52-4118-8274-d1e62a43245d.png)
 
-Has the biggest house in her neighborhood. Her house, at 454 W. Derby Street, has been hers for 12 years. Besides being rich and live in a big house, she also happen to own L. Muchinski Investigations, Right now she is working in Venice Italy, and let her work companion Tristan take care of both her house and bureau.
+Has the biggest house in her neighborhood. Her house, at 454 W. Derby Street, has been hers for 12 years. Besides being rich and live in a big house, she also happen
+to own L. Muchinski Investigations, Right now she is working in Venice Italy, and let her work companion Tristan take care of both her house and bureau.
+
+## Victoria Wendover
+![Victoria Wendover](https://user-images.githubusercontent.com/107671583/227661884-67f92a68-9bf2-4e52-9306-fdf6c61759f2.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227661895-f0b1c726-df02-4acf-9e31-a9d9f6474098.png)
+
+Victoria is another neigbor to Thelma, living at 458 W. Derby Street. In the worst looking house in the neighborhood, but that isn’t saying much considering the
+competition. A brick and stone bungalow that would look better set in the countryside than the suburbs, but beautiful nonetheless. And the owner really takes good
+care of both the garden and the interior of the house. Victoria is a widow aged 71. She has lived in this neighborhood since the day construction finished in 1870,
+over 50 years ago. Since her husband died, 17 years ago, she mostly keep by herself, and don’t talk that much with her neighbors. 
+
