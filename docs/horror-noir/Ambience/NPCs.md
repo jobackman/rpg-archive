@@ -83,7 +83,7 @@ He also have a good access to quite good quality moonshine, either he knows some
 
 [High Resolution Photo](https://user-images.githubusercontent.com/107671583/227663792-b44e0b11-504d-49e2-9267-e806f9db39e7.png)
 
-Sharon Braithwait looks to be around 40 years old, and is living in the same neighborhod as Thelma, with her daughter Denise. Sharon mostly stays at home, she have a few times borrowed some newspapers and magazines from Tristan, and every time he gets them back, there are som holes on some pages when she appearantly have clipped out articles or ads.
+Sharon Braithwait looks to be around 40 years old, and is living in the same neighborhod as Thelma, with her daughter Denise. Sharon mostly stays at home, she have a few times borrowed some newspapers and magazines from Tristan, and every time he gets them back, there are some holes on some pages when she appearantly have clipped out articles or ads.
 
 ## Thelma L. Muchinski
 ![Thelma L Muchinski](https://user-images.githubusercontent.com/107671583/227660469-010dce06-d8e9-4454-abc0-883f32b267a2.png)
