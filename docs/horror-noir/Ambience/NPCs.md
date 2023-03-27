@@ -78,6 +78,12 @@ Retribution Phillips, age 100 years, lives in a small 17th century house along S
 Grampa Phillips is a very friendly and social man who has a severe hearing impairment which unfortunately makes him mishear things, but he is not so troubled by that.
 He also have a good access to quite good quality moonshine, either he knows someone who produces it, or perhaps he does it himself.
 
+## Ruby Elsner
+![Ruby Elsner](https://user-images.githubusercontent.com/107671583/227884278-d188f44f-07ed-4ea6-b691-3749939dab35.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227884311-e6d05345-49f8-4322-8af0-5ff4688efea8.png)
+
+
 ## Sharon Braithwait
 ![Sharon Braithwait](https://user-images.githubusercontent.com/107671583/227663779-ed6d84b3-482b-4c58-b224-100656405747.png)
 
