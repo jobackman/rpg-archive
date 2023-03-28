@@ -75,4 +75,6 @@ Allia signalerar med signaler vi känner igen på båten:
 Jerry sitter på relingen och fortsätter taunta vakterna. 
 
 ## Allia
-Rör sig mot smedjan. Hör ljudet. Stål mot stål. Hammare. Kommer fram till en insjunken, öppen, smedja med liten glöd. Gammal man som står och slår på nånting som glöder. 
+Rör sig mot smedjan. Nedsjunkna lervägar. För att ta sig in i hus måste man nästan klättra upp lite över gyttjan. Husen är två typer: en del är mangrove trädet som baren vi var i, kring stadskärnan och tornet så ser de mer gamla ut. En del runtomkring tycks vara byggda i sten och halm. Längre ut blir det mer och mer primitivt. 
+
+Hon hör ljudet. Stål mot stål. Hammare. Kommer fram till en insjunken, öppen, smedja med liten glöd. Gammal man som står och slår på nånting som glöder. 
