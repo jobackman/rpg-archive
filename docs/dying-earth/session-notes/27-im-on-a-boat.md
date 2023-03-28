@@ -1,4 +1,4 @@
-# 26 - Release the river
+# 26 - Im on a boat
 
 GM rullar för hur snabbt Melkodor blivit notifierad av sabotaget. 1d6 --> 6. Någon ser sabotaget och springer till vakter på tornet, stänger igen, väcker Melkodor. Det blir ändå en del civila där, det blir en folkmassa som sprider ryktet vidare. Vattnet har runnit svämmat över, börjat holka hur marken, blivit otroligt gyttjigt.
 
