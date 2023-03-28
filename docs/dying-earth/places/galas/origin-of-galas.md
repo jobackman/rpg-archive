@@ -1,4 +1,5 @@
 # Origin of House Galas
+
 A couple of centuries ago the hero Malibus Galas claimed the throne of Kamhro by slaying the great beast Bahamut. Kamhro culture demands that the strongest and most cunning man is king so he was sworn in with the blessing of the populace. His reign was to be short though, he made many demands on the people but the one demand that made his popularity turn was when he claimed every woman of age into his personal harem. With his popularity all but gone the elite started to scheme against him, he would soon be overthrown. But Malibus is known for his wits, before the traitors made their move he and his loyalists had left at night with his harem, slaves, treasure, and all Kahuros. By spreading false rumours, covering his tracks, and with the use of decoys, he made a fool out of his pursuers.
 
 They moved into the Kingdom of Zeraphin where Malibus were granted land and title by King Ethard II the gracious thus becoming his vassal. He decided to do what no lord before had dared to do and build his stronghold on top of the legendary floating rocks of Kiel.
