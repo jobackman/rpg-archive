@@ -155,3 +155,52 @@ Allia berättar att det kan finnas en som kan klura ut den här grejen på båte
 
 ![image](https://user-images.githubusercontent.com/732505/228361743-2dbb17c9-4004-4e13-be61-ee005010fbb4.png)
 
+## Tillbaka på båten
+
+Eftersom vi vet att allia är skadad men lyckades så preppar vi i båten: 
+
+- Rouya preppar healing ritual för allia
+- Aeryn plockar fram en tio-liters tunna av vin för att försöka charmera de och supa ner de. 
+
+> Grabbar fan ni har ju fått skitgörat... Hur länge ska ni behöva sitta här?
+
+Ber om ursäkt för Jerry också. Och som förlåtelse så tänkte han att han kan dela med sig av tunnan. Plockar ut tre stop. Rull för charm 4d6 + FU-point --> 6. 
+
+> Grabbar ska vi snacka skit om lords eller? JAG KAN BÖRJA 😂..
+
+Zoomar ut och ser solen röra sig i montage. Bra drag! Aeryn sätter sig så att de kollar ifrån landgången och på Aeryn! Då kommer Allia och Lirian. Ser ståhejet. De smyger på båten.
+
+När Allia kommer på båten rycka Rouya ner henne under däck, drar henne under däck, tittar till såren osv. Sätter henne på en yta under däck på bo-ytan. Har röjt undan vid boytan, ristat in och ritat upp en cirkel för en ritual till Otis, guden till hem och kärlek i Sidinha. Rull 4d6 --> 6. Allias lvl 2 skador blir lvl 1 skador efter scenen. 
+
+Efter ritualen så introducerar Allia Rouya o gänget. De pratar lite om Melkodor, Lirian vill ha hämnd. Kida hör det här, får en blick av Rouya. Hon var för övrigt väldigt impad över helningen. 
+
+...
+
+## Lime-gröna orben
+
+Hon placerar kulan framför oss på duken. Lyser grönt. Stormar nästan inuti. Melkodors amulett, ring-sten osv var också sfäriska. Sfären Kida gav lös vitt. 
+
+Rullar för investigate av orb: 3d6 + FU-point + hjälp av Jerry --> **crit**.
+
+Det går upp ett ljus för Rouya. I sidinhanska systemet av gudar så finns det en zokiad, spektrum, cirkel av gudar som motsvarar olika färger, tider på året osv osv. Vit är alla färger samtidigt. Det är mycket energi i en vit, men den är ofokuserad. Om man kan fokusera fram olika färger så kan man få fram olika effekter. Violett och limegrönt är motsatser. Vad hon inser är att allt som Melkodor har är violett ljus. Han fokuserar på violett. Tornet är inställt på violett. Det är det han har. 
+
+För att kunna jobba med violett så är en metod att man anrikar eller splittar energin. Delar. Om man har en vit sfär, dvs allt-laddad, så kan han få ut violett energi. Men restprodukten blir limegrönt. Limegrönt är alltså anti-violett, anti-melkodor. De har flera effekter:
+
+- Dels tar de ut varandra när de är i närheten. 
+- Skulle en violett orb vidröra en limegrön orb, så blir det en våldsam reaktion. 
+
+Det är typiskt så här som orbs funkar. Orben hon lämnade till tamsin var lite mer nyanserad. Mer sofistikerad. Betyder inte att violett eller andra färger är sämre, bara annan effekt. 
+
+TLDR: När melkodor producerar de violetta orbsen så blir de gröna restprodukter. De här måste han göra sig av med på nåt sätt... 
+
+---
+
+Tanke: Var gömmer melkodor resterande limegröna orbs? **Dammen???**
+Fråga Lirian: vet hon en väg in i tornet? **Svar ja**
+
+### Plan till nästa gång
+
+- Smyga in i tornet i Lirians smyg-väg? 
+- Skapa riots eller strypa nånting som är livsviktigt för melkodor? 
+- Offra melkodor till båten, ersätta Rakahds plats?
+
