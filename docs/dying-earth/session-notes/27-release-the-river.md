@@ -122,3 +122,5 @@ Han går med på det, men vill att Allia tar det han sagt och överväger det. H
 > "Besök" och gestikulerar att hon kan gå ner. 
 
 Allia går ner. Unken vinkällare eller skafferi. Inte stort. Ser lite halvutdryckna vinflaskor, korkar i nån hörna, dåligt belyst. I mitten en lykta, flicka på ~20. Nåt shrine på väggen, tygbit och nåt ljus mot väggen som är tänt. Hon ser ganska fierce ut. 
+
+![image](https://user-images.githubusercontent.com/732505/228358806-93e70241-6be6-4815-beec-396706d22b71.png)
