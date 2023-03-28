@@ -124,3 +124,33 @@ Han går med på det, men vill att Allia tar det han sagt och överväger det. H
 Allia går ner. Unken vinkällare eller skafferi. Inte stort. Ser lite halvutdryckna vinflaskor, korkar i nån hörna, dåligt belyst. I mitten en lykta, flicka på ~20. Nåt shrine på väggen, tygbit och nåt ljus mot väggen som är tänt. Hon ser ganska fierce ut. 
 
 ![image](https://user-images.githubusercontent.com/732505/228358806-93e70241-6be6-4815-beec-396706d22b71.png)
+
+> Jag såg dig och den rödhårige inatt
+
+Vi gjorde för att du skulle se svarar Allia. 
+
+> Jag har ett pris på mitt huvud och större delen av staden
+
+> Snart har nog jag också det. Jag behövde döda en av melkodors män.
+
+Hon höjer på ögonbrynen lite som ett "oh damn girl"
+
+Allia förklarar situationen, varför vi är här och varför melkodor inte är någon vän av oss heller. Allia erbjuder henne att vi kan ta henne härifrån när vi sticker. Hon himlar med ögonen
+
+> Jag är väldigt tacksam till Ejnar, att han tagit hand om mig. Men han lever sitt liv på sitt sätt. Men melkodor har dödat min bror, och är ansvarig för min fars försvinnande. Jag kan inte leva med mig själv om jag inte gör nånting. 
+> 
+> I princip hela staden är rädda för honom. Jag har försökt sätta en pil i honom, men den stannar och han är skyddad. 
+
+Allia frågar om hennes bror, om hon pratat nånting med brorsan innan han försvann:
+
+> Ja... jag har varit ute och jagat för att försörja oss, men det är för knapert nu... Toren gick till melkodors torn för att stjäla mat. Han blev påkommen varpå de fångade in honom.. När han skulle stjäla maten så fick han syn på nånting som han fick med sig. Jag har den här men jag vet inte vad det är... 
+>
+> Jag har en känsla att Melkodor är desperat att få den här tillbaks. 
+
+Frågar om hon kan lita på Allia.
+
+Går bort och plockar upp nånting runt, inlindat i tyg. **Den lyser limegrönt...** Den påminner mycket om sfären som levererades till melkodor. Sfären melkodor fick lyste vitt. Den här är grön. Melkodor har en massa lila saker. (RGB PC-master race?!)
+
+Allia berättar att det kan finnas en som kan klura ut den här grejen på båten och ber Lirian att få ut ett meddelande till båten... 
+
+
