@@ -81,3 +81,44 @@ Hon hör ljudet. Stål mot stål. Hammare. Kommer fram till en insjunken, öppen
 
 ![image](https://user-images.githubusercontent.com/732505/228355135-8b8d7df8-c3ef-49eb-9c5c-195f58b05aca.png)
 
+Hon får intrycket att han inte smider mycket nuförtiden. Men idag verkar han vara väldigt busy. Knivar, Spjutspetsar, pilspetsar osv...
+
+> Var hälsad smed! 
+
+> Goddag!
+
+> Jag söker nånting som väntar på mig här.
+
+Han slår extra hårt på städet. Kastar glödheta metallen i en hink vatten. 
+
+> Sååå... Det måste vara du som är en av utbölingarna. 
+
+I en lite lägre röst, så att hon kommer närmre. 
+
+> Vad har ni här att göra? 
+
+Allia förklara att vi är på genomresa, men att vi har en tendens att fastna där det finns översittare. Men att hon är här just nu är ett meddelande från idag. 
+
+Han viftar bort hennes ord och säger:
+
+> Det är en flicka här i stan som är i fara... ni skulle kunna göra mig en ypperligt stor tjänst om ni kan ta henne härifrån. 
+> 
+> Det är ingen poäng i att slåss mot det oundvikliga...
+> Melkodor har varit här så länge vi kan minnas. Han var här hela mitt liv. Hela min mästares liv. Så långt någon kan minnas. 
+
+> "Allt som har en början har ett slut" svarar Allia. 
+> **Lirian** har gjort ett stort intryck på oss. Om hon är här så vill jag jättegärna prata med henne. 
+
+> När jag var en ung lärjunge till mäster Rotgar. Så blev han ombedd att smida en mekanism till Melkodor. Vad han nu ska göra vet ingen. Tydligen gick det inte så bra och min mästare fick ta skulden. Då fick jag ta över. 
+
+> Det låter som att Melkodor gör ditt liv besvärligt. 
+
+> Att hålla mig borta är det enda som gjort ett liv möjligt. Det borde Lirian lära sig också. 
+
+> "Det finns bara en sak som är värre än att dö, det är att leva ett liv man inte vill leva" svarar Allia. 
+
+Han går med på det, men vill att Allia tar det han sagt och överväger det. Han ser sig om lite tafatt för att se om det är någon uppenbar som tittar in när Allia frågar om Lirian igen. Han går bort och gestikulerar att hon ska följa med. Tar henne längre bak, knuffar undan en låda. Tar bort nån duk. En falllucka i golvet. Lönndörr. Öppnar den.
+
+> "Besök" och gestikulerar att hon kan gå ner. 
+
+Allia går ner. Unken vinkällare eller skafferi. Inte stort. Ser lite halvutdryckna vinflaskor, korkar i nån hörna, dåligt belyst. I mitten en lykta, flicka på ~20. Nåt shrine på väggen, tygbit och nåt ljus mot väggen som är tänt. Hon ser ganska fierce ut. 
