@@ -81,7 +81,7 @@ Rullar charm 1d6 + 1d6 --> 6. Han lättnar lite och blir helt tagen av Allias ch
 
 > Vad sägs om att vi går till baren, de ser ut att ha kul där. Lära känna varandra lite bättre?
 
-Han går med på det. Går i riktning mot Jerry. Allia beteer sig väldigt tafatt. När de passerar den berusade mannen, Jerry, så kommer en jätteklapp som sänker honom.
+Han går med på det. Går i riktning mot Jerry. Allia beteer sig väldigt tafatt. De passerar en berusad man, Jerry!
 
 Jerry börjar mucka gräl som om killen försöker showoffa med den babe han kommer med här. När han släpper allias grepp, och tänker ta han om jerry så sappar Allia honom. Han är medvetslös.
 
