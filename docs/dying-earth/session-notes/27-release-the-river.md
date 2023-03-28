@@ -78,3 +78,6 @@ Jerry sitter på relingen och fortsätter taunta vakterna.
 Rör sig mot smedjan. Nedsjunkna lervägar. För att ta sig in i hus måste man nästan klättra upp lite över gyttjan. Husen är två typer: en del är mangrove trädet som baren vi var i, kring stadskärnan och tornet så ser de mer gamla ut. En del runtomkring tycks vara byggda i sten och halm. Längre ut blir det mer och mer primitivt. 
 
 Hon hör ljudet. Stål mot stål. Hammare. Kommer fram till en insjunken, öppen, smedja med liten glöd. Gammal man som står och slår på nånting som glöder. 
+
+![image](https://user-images.githubusercontent.com/732505/228355135-8b8d7df8-c3ef-49eb-9c5c-195f58b05aca.png)
+
