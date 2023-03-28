@@ -153,4 +153,5 @@ Går bort och plockar upp nånting runt, inlindat i tyg. **Den lyser limegrönt.
 
 Allia berättar att det kan finnas en som kan klura ut den här grejen på båten och ber Lirian att få ut ett meddelande till båten... 
 
+![image](https://user-images.githubusercontent.com/732505/228361743-2dbb17c9-4004-4e13-be61-ee005010fbb4.png)
 
