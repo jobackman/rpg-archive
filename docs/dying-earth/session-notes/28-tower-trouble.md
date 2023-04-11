@@ -1,4 +1,4 @@
-# Session 28 - TBD
+# Session 28 - Tower trouble
 
 Aeryn är ute och uppehåller vakterna fortfarande.
 
