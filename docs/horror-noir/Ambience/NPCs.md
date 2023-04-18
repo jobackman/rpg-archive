@@ -80,11 +80,14 @@ He also have a good access to quite good quality moonshine, either he knows some
 
 ## Ruby Elsner
 ![Ruby Elsner](https://user-images.githubusercontent.com/107671583/227884278-d188f44f-07ed-4ea6-b691-3749939dab35.png)
+
+[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227884311-e6d05345-49f8-4322-8af0-5ff4688efea8.png)
+
 Ruby Elsner, age 49, bored housewife and Stevens Landlady. She feels sorry for Steven living by himself (maybe Steven told her about his fiancee, that he broke up with), she thinks men and especially boys his age cannot take care of themselves or a household. She pops by his apartment from time to time to see how he has it, usually she brings food (for some reason she often makes too much) and sometimes she even cleans or does his dish (she might soon offer to do his laundry). She likes to hear Steven talk about his exciting detective life.
 
 Her husband has lost all interest in her and is very dedicated to his work (or maybe does nothing, just living of the rent money, useless!). Ruby knows her marraige has given her a comfortable life but has come to accept that her husband absence. She mostly entertains herself by keeping an eye on her tennatns, she loves drama and gossip. She lost a son in the great war, a sadness she is still carrying with her.
 
-[High Resolution Photo](https://user-images.githubusercontent.com/107671583/227884311-e6d05345-49f8-4322-8af0-5ff4688efea8.png)
+
 
 
 ## Sharon Braithwait
