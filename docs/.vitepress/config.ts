@@ -1,5 +1,6 @@
 import { DefaultTheme, defineConfig } from 'vitepress';
 import { getSidebar } from 'vitepress-plugin-auto-sidebar';
+import lazyLoading from 'markdown-it-image-lazy-loading'
 
 // @ts-ignore-next
 import fs from 'node:fs';
@@ -36,4 +37,10 @@ export default defineConfig({
     },
   },
   lastUpdated: true,
-});
+  markdown: {
+    config: (md) => {
+      md.use(lazyLoading)
+    }
+  },
+
+})
