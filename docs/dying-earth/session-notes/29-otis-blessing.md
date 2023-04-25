@@ -1,4 +1,4 @@
-# 29 - LOT LOT LOTT LOOT LOOOT LOOOT LOOOTOT LOTT
+# 29 - Otis' Välsignelse
 
 Vi är kvar i Lot ett par dagar. Mycket att kolla igenom, tornet, förändringar i staden osv. Inväntar Tamsin.
 Jerry get Admin tip for dummies.
@@ -135,7 +135,7 @@ Rouya ber om ursäkt för att de var långsamma. Pratar om vad hon lärt sig fr�
 
 Rouya projicerar väldigt mycket. Ser sig själv och Nikou  det. Övertalar att det finns bara en väg ut. Övertalar henne att göra det, hon vill ädnå själv men är väldigt defeated.
 
-### Ritualen
+## Ritualen
 
 Tar Gino till toppn av tornet, fäster honom i stolen och bär ner honom. När han väl sitter så fäaster vi honom med vår Immovable Rod. Han sitter fast.
 
@@ -157,7 +157,7 @@ Cross-cut där man ser hans ögon och orben som virvlar runt i violett och grön
 
 Gino, Kida, Rouya alla skratt-gråter i förbluffelse och lycka.
 
-### Tamsin
+## Tamsin
 
 Han kommer gåendes en dag, från FEL håll. Ingen big show-off entrance, men dyker upp på fel sätt. Han går med självsäkra steg mot skeppet. Vi har sett honom som scholar, när han var någon annan, men den här gången kommer han fram, ler lite grann och vinkar.
 
@@ -175,3 +175,61 @@ Går upp till Patches' del av baracken i tornet.
 > Vi har ett officiellt brev för dina åstakomster
 > Din kompetens är väl behövd för nya guvernören och vill diskutera din inblandning av stadens framtida prosperity.
 > Därmed vill vi bjuda in er till en *fancy-gathering-av-individer*
+
+Jerry rull för charm: 3d6 --> 6. Patches tänker att han äntligen ska få veta hur han FAKTISKT kommer att ha Lirian + Ejnar som sina puppets. Vi går igenom en riktig scen med han, där vi går igenom hur han ska kontrollera Lirian, går med på en överrenskommelse. Sen ger vi han en AMAGAHD stoft-förgiftad ölbägare. Han är down.
+
+Dagen efter har Rouya och Tamsin preppat hela dagen innan. Ristat saker, gjort stuff. Tamsin har ett instrument som han plockar fram när det är dags. Nånting som ser ut som ett mettaliskt kors (plus, inte krucifix). Han gör gester som får det att vibrera i slangarna.
+
+Vi har smort in patches som fortfarande mumlar. Har den sista gröna orben i närheten ifall det behövs.
+
+Rull: 3d6 magic + 1h ritual 1d6 + tamsin 1d6 + FU-point = 6d6 --> 4... Rakhad kommer loss, men det är nånting med Patches' violetta öga som har en dålig effekt på hela det här maskineriet. Det här lila ljuset lyser upp hela patches, rör sig in i hans kropp, och vi ser i en cinematisk effekt hur ljuset kontaminerar och rör sig in i sladdar, tentaklerna av båten.
+
+Patches går från att mumla till att SKRIKA.. Vi lossar Rakhad först från slangarna md flesh-bending,  knuffar in patches och det ovan händer... Spelar inte alls bra med systemet... Han skriker, vrålar ut, fuse:ar snabbare in i båten och blir ett med båten mer än vad Rakhad någonsin blev. Ser hur en tredjedel av båten slits loss. Ser hur vi alla flyr båten.
+
+Hängande delar av maskineri, tentakler, nästan som en spindel av maskineri organsika maskiner. Ser patches halv-fuse skrikandes ut i vild panik. GM rullar för hur mycket dmg patches orsakar oss alla. 1 = mycket skada, 6 = lite skada. Rull 1d6 --> 1.
+
+Den rör sig lit spastiskt fram och tillbaka innan den rör sig upp mot staden. Massakrerar saker i sin väg, plöjer genom byggnader, spetsar människor på gatorna. Ställer till oreda. Den börjar klättra upp för tornet och kommer tillslut upp i taket. Patches vänder sig mot den stora orben, men ungefär där blir besten överväldigad av det violetta ljuset, vänder och bara springer ut. Lämnar staden österut. Lämnar en korridor efter sig genom terrängen där den har jämnat vegetaionen med marken.
+
+## Flashback till Aftermath
+
+Gå igenom det här nästa session
+
+
+## Flash-sideways till Tairo
+
+Zoomar in mot Tairo. Ser den trasiga muren. Mansion. Kvarnen. Zoomar in genom ett fönster. Urist hamrar på nån plåt, scribblings. Högre upp på en bjälke sitter Brölarens dotter och tittar på. Hon har hängt med dvärgarna på sista tiden, men är fortfarande skadad sedan Uzdal Ghoros.
+
+> "Sen som vanligt" muttrar han och hamrar på.
+
+Dörren öppnas. Rosh kommer in (Micke)
+
+> Här är jag! Du har alltid visat mig vägen till sannnigen min käre mästare. Men det är dags för mig att gå vidare.
+> Min bramach är avslutad. Våra vägar går åt olika håll. (Du har lärt mig att jag kan)
+
+Urist slänger hammaren och blir lack
+
+> Du är ju bara en pojkvasker
+
+> De 23 åren jag haft dig som mästare har jag lärt mig ett par saker. Du är ju trots allt den mest magnifika mästaren i alla dvärgars land
+
+> Du är inte klar, du är klar när jag säger att du är klar!
+
+> Jag lyssnar alltid på ditt råd. Men vägen väljer jag själv. Ditt namn och din undervisning kommer leva vidare i generationer av dvärgar.
+
+Rullar för att charma mästaren: 1d6 + FU-point --> 6
+
+> Om jag hade sagt så till min mästare... när jag...
+
+Kameran vrider sig mot rosh, han har förberett sig för att lämna urist. Gjort nån ritual, ändrat skägget, trimmat det. Packat en ryggsäck. Han är bilden av stålsatt dvärg. I ryggsäcker sticker ut nånting metalliskt, det är en protes-prototyp.
+
+Ett steg i dvärgars liv är när man följer och lär sig av en mästare. En annan är när man bryter loss.
+
+Precis som Maesters med sina ringar runt halsen, har dvärgar besmyckelser i skägget för att visa var man är i livet, vad man kan, status, nivå osv.
+
+Urist ger Rosh en ring som signifierar att han studerat hos Mäster Urist. Går också till lådan med random saker, plockat isär en scarab som han onaturligt snabbt bygger ihop igen, och sträcker över till Rosh.
+
+Rosh vänder sig om och går. Urist fortsätter banka. En tid efter Rosh försvunnit vänder han sig upp till Bölarens dotter och säger
+
+> Oroa dig inte, han kommer snart tillbaka
+
+Han fäller ner sina goggles för att dölja tårarna.
