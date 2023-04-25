@@ -6,10 +6,12 @@
 The peasant who had a daughter kidnapped by the Cult of Uzdal Ghoros, the group saved him and his daughter in the black temple of Inurr.
 
 ### Tamsinh
+![co_smug_male_sorcerer_short_black_hair_clean_shaven_scholar_orn_ecc86191-3537-4ce2-bbbc-141457a2968c](https://user-images.githubusercontent.com/260888/234357101-d9175e33-33d0-4bfa-ae36-7b58aee56b77.png)
 
 ## Amagahd
 
 ### Natalia Gaspar
+![co_A_portrait_of_a_female_royal_knight_in_alien_silver_armour_f_a8e3bedb-9c4d-4b53-8d20-c9e5ba7146da](https://user-images.githubusercontent.com/260888/234357509-0e1e5457-27bb-429d-a181-0e1fa3ef7744.png)
 
 ### Hertig Aemon
 
