@@ -59,13 +59,14 @@ Plan:
 - Sappa vakten
 
   - om det går dåligt
+
     - allia gör sexy-pose charm
     - jerry vara redo med storhanden
 
 - Häll sprit i munnen på han
 - Sätta upp vakten som att han somnade på spaken för dammen
 
-<img width="481" alt="image" src="https://user-images.githubusercontent.com/732505/225139737-eb065d94-e737-4df0-b08e-7e28e91cba88.png">
+<img alt="image" src="https://user-images.githubusercontent.com/732505/225139737-eb065d94-e737-4df0-b08e-7e28e91cba88.png">
 
 Allia smyger emot vakten, rullar 2d6 + 1d6 --> 4. (Allia är dice-cursed). Antingen så får hon göra sexy-pose, eller så upptäcker han henne när hon är nära.
 
