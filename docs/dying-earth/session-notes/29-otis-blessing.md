@@ -135,7 +135,7 @@ Rouya ber om ursäkt för att de var långsamma. Pratar om vad hon lärt sig fr�
 
 Rouya projicerar väldigt mycket. Ser sig själv och Nikou  det. Övertalar att det finns bara en väg ut. Övertalar henne att göra det, hon vill ädnå själv men är väldigt defeated.
 
-## Ritualen
+### Ritualen
 
 Tar Gino till toppn av tornet, fäster honom i stolen och bär ner honom. När han väl sitter så fäaster vi honom med vår Immovable Rod. Han sitter fast.
 
