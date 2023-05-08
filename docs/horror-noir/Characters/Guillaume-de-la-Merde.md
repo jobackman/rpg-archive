@@ -7,25 +7,25 @@
 
 ( )|( )( )( ) Observe
 
-( )|( )( )( ) Scrutinize
+(X)|(X)( )( ) Scrutinize
 
 ( )|( )( )( ) Sociologize
 
 **Prowess**
 
-( )|( )( )( ) Engineer
+(X)|( )( )( ) Engineer
 
 ( )|( )( )( ) Elude
 
-( )|( )( )( ) Fight
+(X)|(X)( )( ) Fight
 
-( )|( )( )( ) Maneuver
+(X)|( )( )( ) Maneuver
 
 **Resolve**
 
 ( )|( )( )( ) Interrogate
 
-( )|( )( )( ) Prowl
+(X)|( )( )( ) Prowl
 
 ( )|( )( )( ) Socialize
 
