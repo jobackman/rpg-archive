@@ -1,32 +1,3 @@
 # Guillaume de la Merde
 
-## Attributes and Actions
-**Insight**
-
-( )|( )( )( ) Derive
-
-( )|( )( )( ) Observe
-
-(X)|(X)( )( ) Scrutinize
-
-( )|( )( )( ) Sociologize
-
-**Prowess**
-
-(X)|( )( )( ) Engineer
-
-( )|( )( )( ) Elude
-
-(X)|(X)( )( ) Fight
-
-(X)|( )( )( ) Maneuver
-
-**Resolve**
-
-( )|( )( )( ) Interrogate
-
-(X)|( )( )( ) Prowl
-
-( )|( )( )( ) Socialize
-
-( )|( )( )( ) Treat
+https://docs.google.com/spreadsheets/d/1i-lYFf0uQjYVwLAI7C0xTvUn3yXll_JXBPw4Ubs7_Vk/edit?usp=share_link
