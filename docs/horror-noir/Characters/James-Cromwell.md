@@ -1,31 +1,3 @@
 # James Cromwell
-## Attributes and Actions
-**Insight**
 
-( )|( )( )( ) Derive
-
-( )|( )( )( ) Observe
-
-( )|( )( )( ) Scrutinize
-
-( )|( )( )( ) Sociologize
-
-**Prowess**
-
-( )|( )( )( ) Engineer
-
-( )|( )( )( ) Elude
-
-( )|( )( )( ) Fight
-
-( )|( )( )( ) Maneuver
-
-**Resolve**
-
-( )|( )( )( ) Interrogate
-
-( )|( )( )( ) Prowl
-
-( )|( )( )( ) Socialize
-
-( )|( )( )( ) Treat
+https://docs.google.com/spreadsheets/d/11t1a-Wdr2cTm8mfZ1UMVrY9Wv0hTZkcEWFgKc_eR8No/edit?usp=share_link
