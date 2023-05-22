@@ -52,6 +52,9 @@ starting capital, to start a new life and also helped to generate papers for the
 
 When Henry was found in Bishop's body he was in quite bad condition, but healed surprisingly fast and well.
 
+## Lydia Vanderbilt
+![image](https://github.com/jobackman/rpg-archive/assets/107671583/638411e1-007a-45af-a5e8-df314f56ff40)
+
 ## Martha and Timothy Durant
 ![Martha and Timothy Durant](https://user-images.githubusercontent.com/107671583/227663111-6b00bde2-4598-4e49-beee-297181c85f92.png)
 
@@ -104,6 +107,9 @@ Sharon Braithwait looks to be around 40 years old, and is living in the same nei
 
 Has the biggest house in her neighborhood. Her house, at 454 W. Derby Street, has been hers for 12 years. Besides being rich and live in a big house, she also happen
 to own L. Muchinski Investigations, Right now she is working in Venice Italy, and let her work companion Tristan take care of both her house and bureau.
+
+## Dr Trenton Harrod
+![image](https://github.com/jobackman/rpg-archive/assets/107671583/ff7c36f8-5949-491e-9878-8f2483a59650)
 
 ## Victoria Wendover
 ![Victoria Wendover](https://user-images.githubusercontent.com/107671583/227661884-67f92a68-9bf2-4e52-9306-fdf6c61759f2.png)
