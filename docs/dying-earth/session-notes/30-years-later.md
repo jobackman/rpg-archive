@@ -111,6 +111,31 @@ Klipp till senare. Han kommer ner och plockar upp Jerry. Binder fast honom i ett
 
 Jerry tackar för att han beskrev så många av hans dåd. Blir smacked av en gloved hand. lvl 1 harm. Jerry säger att han vart ju återupplivad i amagahd av Ixios. Rullar 5. Han är inte övertygad men lite rubbad. Fortsätter mucka och jävlas med honom tills han får en till näve. End scene.
 
+Mini flashback:
 
+> Fattar inte varför de skickar ut en så dålig väpnare som dig att göra en sån viktig mission. varför inte nån kompetent?
+
+2d6 --> 6. Jerry pushed his buttons. Han tar tar i jerry
+
+> Jag har följt er i fem år. Jag vet ALLT om er. Jag har fått tag på dig, jag har fått tag på Rouya och jag är så nära. Nog har de skickat iväg andra, men de har alla fumlat i mörket men jag har vandrat i ljuset. Om ni inte kan hjälpa mig hitta Nikou så har ni ingen användning för mig.
+
+## Swamphat gang
+
+Spröten börjar äta sig igenom. Det står ett gäng skepnader intill ormen med masker, med svampar med rökelser o grejer som de viftar. Skiftar fokus och får spröten att dra sig tillbaka. Ormen (Abaia) går från agitated till lugn och börjar röra sig vidare mot horisonten. De leder bort ormen.
+
+> Vad fan var det där... - aeryn
+
+Råsh föreslår att ormen kanske följer rökelsen eller nånting.
+
+De börjar röra sig mot Hed. De ser soltemplet som är lite finare än vad den gjorde på bilden. En av svamparna är lite stojjigare, värdshus.
+
+## Rouya frågas ut
+
+Han frågar ut rouya om nikou och om att han vill hitta henne så att hon inte orsakar evigt mörker. Rouya monologuar om att hon kommer förkasta honom hans kyrka familj vänner och hela land i evigt mörker om han rör på ett enda hårstrå av nikou. Rummet mörknar och hennes arms munnar echo-whisprar samma creepy hot. Han var påväg att backhanda men går ner på knä i bön till ljuset istället. Jerry hör lite av det här underifrån och börjar galen-laugh:a. Rouya Jerry och armen skrattar alla ett galet laughter som ekoar upp genom kyrkan.
+
+
+## Epilogue
+
+Vi hör en weird sång i cellerna... ljudet kommer från svamparna. Ljudet kommer djupare in. Deeper. Golvet har glipor. Kameran pannar ner mog gliporna, hör sången. Under oss går en procession av de maskerade männen i ett komplex.
 
 
