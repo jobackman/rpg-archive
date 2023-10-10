@@ -55,3 +55,17 @@ Man beslutar sig för att dra till kontoret och sova där, men först studera li
 Man lyckas hitta lite texter som beskriver det Stephen såg som en Ghoul och det matchar lite vad James såg i kloaken.
 
 Man somnade ca 01:00 och hade en lös plan på att gå tillbaka till butiken dan efter.
+
+## Session 4
+Morgon. Rapporterar in till the dean.
+
+Han klagar om snubben vi skulle delaya, och vi snackar om alla döda. Lucy, Emilia etc. Vi säger att vi har clues att följa upp på (berättar inte om all supernatural shit). Vi försäkrar att vi löser hans problem.
+
+Vi åker till graveyarden. Hittar ingenting alltför galet. Men obehaglig graveyard som fan.
+
+Till Abner Wicks butik... Plan: Tristan går in (som bait) för att komma in och säga att vi vill acceptera hans deal. James täcker på framsidan av huset, guillerme och stephen går baksidan.
+
+Tristan går in och blir jumped av en "servant" Hector.
+"Wick är i boston". Han luktar surt. Definitivt en ghoul. Tristan ramblar och börjar ge signaler om att folk ska ta sig in.
+
+Guillerme och Stephen dyrkar upp låset till garaget. Tar sig in i huset och smyger ner i källaren.
