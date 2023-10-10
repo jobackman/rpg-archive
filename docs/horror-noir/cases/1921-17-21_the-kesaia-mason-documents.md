@@ -1,9 +1,8 @@
 # Titel
 
-## Session 1
+## Session 1 Tönsen?
 
-## Session 2 Tönsen
-
+## Session 2
 
 ## Session 3
 
@@ -55,6 +54,26 @@ Man beslutar sig för att dra till kontoret och sova där, men först studera li
 Man lyckas hitta lite texter som beskriver det Stephen såg som en Ghoul och det matchar lite vad James såg i kloaken.
 
 Man somnade ca 01:00 och hade en lös plan på att gå tillbaka till butiken dan efter.
+
+---
+
+Vad vi fann om Ghouls bland Emilias dokument:
+
+### Gouls
+Ghouls are creatures that dwell in subterranean realms, shunning the light of day.
+
+### Physical Characteristics:
+Ghouls possess a disturbing physical appearance, with pallid, corpse-like skin tightly stretched over their emaciated bodies. They have elongated limbs, granting them exceptional agility and speed. Their eyes, sunken and gleaming with an unnatural intelligence, add to their unsettling visage.
+
+### Dietary Habits:
+One of the defining features of ghouls is their insatiable appetite for the deceased. These creatures are known to frequent burial grounds, crypts, and ancient catacombs, where they unearth and feast upon freshly interred corpses. This gruesome diet is believed to grant them a form of immortality, allowing them to absorb the memories and experiences of the deceased.
+
+### Society and Secrecy:
+Ghouls are reclusive beings that exist on the periphery of human society. They are adept at concealing their existence, making them elusive and mysterious. Within their hidden enclaves, ghouls are rumored to possess knowledge of forbidden rituals and ancient lore.
+
+### Encounters and Consequences:
+Interactions with ghouls are rare and fraught with peril. Those who encounter them often experience madness or are drawn into the abyss of the unknown.
+
 
 ## Session 4
 Morgon. Rapporterar in till the dean.
