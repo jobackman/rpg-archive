@@ -22,7 +22,7 @@ I en skogsglänta på avstånd så ser Bram Osmund som vinkar in de. Flyr dit, O
 
 De viskar lite med osmund, de ska röra sig cidare till huvudcampet, frågar om han verkligen vågar stanna med oss.
 
-Bram överhör bara ett ord, hans mosters namn **Uma**.
+Bram överhör bara ett ord, hans mosters namn **Yma**.
 
 Osmund snackar med gänget lite, frågar om vad de är anklagade för och hur de kan bidra till communityt
 
@@ -30,3 +30,31 @@ Gwen försöker säga att hon kan bidra med *värme*, som missförstås som av o
 Leofric pratar om hur in-sync med naturen han är, pekar ut ekorren där uppe eller hjorten där borta som han kan hjälpa till med att jaga
 
 Ungefär då så kvider nånting till och ekorren faller ner på mark, Bram har kastat sten på han och säger att han är jägare, det är så han kan bidra!
+
+Det är morgon igen, ekkorren är grillad. Gwen tvättar sig i bäcken och sminkar sig med fett. Bram fäktas med pinnar mot ingen. Osmund får besök av någon från outlaw ganget. De frågar han om oss och om det behövs nåt. Han hälsar att det kanske är bra med en långbåge och två små knivar.
+
+Efter frukost rör de sig mot en liten by *Alderford*. En liten relativt okänd by, inte utmärkt på kartor. Osmund ska leverera Bram till **Yma the alewife**, Brams moster..
+
+Introduktioner, introduktioner, Yma läxar upp Bram etc. etc. **ALLA** stöter på Yma.  Osmund snackar med Yma om grejerna som Aleric lämnat, långbåge och knivar.
+
+---
+
+(För att trigga en encounter) Bram utbrister att han inte tänker vara nån springpojke till Yma och springer iväg ut i skogen. Gruppen jagar efter.
+
+De jagar ikapp Bram, och stöter sedan på en person överdrivet färgglad i skogen. Spelar flöjt. Leo lägger märke till de och håller sig på avstånd, det är märkligt. Gwen är övertygad om att det är inget problem. Går fram och frågar om vägen, "vi är vilse". Han är fransk. Ser ut som en trubadur. Sjunger bra. Wow. Gwen är wowad.
+
+Alla rullar scout, gwen märker inget, bram tänker inte på det. Men Osmund anar ugglor i mossen. De tycker det ser ut som att han spear en roll i hur han rör sig pompöst. Leo ser att han har en dold dolk i kläderna. Bram är i full fart att rifla igenom väskorna på hästen medan han pratar.
+
+Bram hittar ett par läder scrolls, som han plockar på sig. Flöjten märker inte av. Flöjten bjuder in gruppen till middag, de börjar följa men anar odåd och hittar på nån ursäkt för att gå.
+
+Efteråt snackas det om hur SUS han var. Bram drar fram läderscrollsen, kan inte läsa alls, Osmund tar den och läser genom. Det är skrivet i latin. Det är skrivet på ett sätt som ska vara kodat, men han knäcker det dirr. bigbrain monkman! Det är nånting från "Angevin" (?), avsett för dolda ögon.. Det var förslutet med sigil som Bram bröt. När Osmund är påväg att säga åt Bram att inte bryta det andra sigillet så bryter han det. Bram konstaterar att det här är nån witch-spell och ger den till Gwen.
+
+Gwen kan läsa den, den är skriven på franska, nämner några personer, hon hittar lite ord som hon skulle gissa det finns nån form av olämpligt förhållande mellan personer. Nånting mellan två personer verkar vara olämpligt. Osmund instämmer vad gwen läste, franska, olämpligt förhållande. Tydligen har man en son till ett herrskap på King stevens sida, sonen har en affär med en dotter på motsatt sida (Empress Maude).
+
+Dikussion mellan Osmund och Gwen om vad man borde göra med det här. Att föra vidare infon eller inte, det är en hög nivå av politik som Leo pekar ut är farligt. Folk rullar insight och inser att det är farligt att vi läste det här. Ska vi låtsas som att vi inte hittat den, lämna de nånstans eller försöka sälja de...? Het diskussion. Osmund dumpar sitt brev om familje-alignments (politik) osv. Bram plockar på sig den när han inte ser igen.
+
+Kommer fram till att vi rör oss mot outlaw campet. Märker att osmund vet var han är och kan navigera skogen. Vi kommer till campet, micke har bra beskrivning om campet. 20-tal människor, inklusive barn som bor där. Brams Morbror Cedric the tanner är är i campet!
+
+Avrundning för dagen... TBC...
+
++3 xp till alla, +2 xp mer till Gwen och Bram för willpower spent & gained
