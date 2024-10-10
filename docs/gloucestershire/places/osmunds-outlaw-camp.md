@@ -70,7 +70,7 @@ __Description:__ A middle-aged woman with long, dark hair streaked with grey, ti
 __Archetype:__ Cunning folk (Healer)
 
 ## MILDRED
-__Description:_ A sturdy woman with a calm demeanour, her hands rough from years of working alongside Alaric in his former smithy. She helps organise the camp’s daily tasks, ensuring that everyone pulls their weight. Mildred is practical and protective, especially of her son Edwin, but she is also the first to offer a warm smile and a shared meal to newcomers. 
+__Description:__ A sturdy woman with a calm demeanour, her hands rough from years of working alongside Alaric in his former smithy. She helps organise the camp’s daily tasks, ensuring that everyone pulls their weight. Mildred is practical and protective, especially of her son Edwin, but she is also the first to offer a warm smile and a shared meal to newcomers. 
 __Relationships:__ Married to Alaric, mother of Edwin. 
 
 ## OLD NED
