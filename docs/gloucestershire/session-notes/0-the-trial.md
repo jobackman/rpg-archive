@@ -35,6 +35,9 @@ Det är morgon igen, ekkorren är grillad. Gwen tvättar sig i bäcken och smink
 
 Efter frukost rör de sig mot en liten by *Alderford*. En liten relativt okänd by, inte utmärkt på kartor. Osmund ska leverera Bram till **Yma the alewife**, Brams moster..
 
+![Yma](https://github.com/user-attachments/assets/335d363e-f521-4eae-92e4-445fc2ce91e1)
+
+
 Introduktioner, introduktioner, Yma läxar upp Bram etc. etc. **ALLA** stöter på Yma.  Osmund snackar med Yma om grejerna som Aleric lämnat, långbåge och knivar.
 
 ---
@@ -42,6 +45,9 @@ Introduktioner, introduktioner, Yma läxar upp Bram etc. etc. **ALLA** stöter p
 (För att trigga en encounter) Bram utbrister att han inte tänker vara nån springpojke till Yma och springer iväg ut i skogen. Gruppen jagar efter.
 
 De jagar ikapp Bram, och stöter sedan på en person överdrivet färgglad i skogen. Spelar flöjt. Leo lägger märke till de och håller sig på avstånd, det är märkligt. Gwen är övertygad om att det är inget problem. Går fram och frågar om vägen, "vi är vilse". Han är fransk. Ser ut som en trubadur. Sjunger bra. Wow. Gwen är wowad.
+
+![Trubaduren](https://github.com/user-attachments/assets/4772b843-feb3-4dea-a2dd-c586081ce97b)
+
 
 Alla rullar scout, gwen märker inget, bram tänker inte på det. Men Osmund anar ugglor i mossen. De tycker det ser ut som att han spear en roll i hur han rör sig pompöst. Leo ser att han har en dold dolk i kläderna. Bram är i full fart att rifla igenom väskorna på hästen medan han pratar.
 
