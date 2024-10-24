@@ -108,17 +108,21 @@ __Description:__ A sturdy woman with a calm demeanour, her hands rough from year
 __Relationships:__ Married to Alaric, mother of Edwin. 
 
 ## OLD NED
+![alt text](NPC-Old_Ned.png)
 __Description:__ A grizzled veteran of many outlaw bands, Ned is in his sixties, with a weathered face and a scar over one eye. He acts as a mentor to younger outlaws and has a wealth of stories about the forests, old battles, and the shifting loyalties of those who live outside the law. He’s also the camp’s unofficial leader when Brother Eadric is away. 
 
 ## OSWIN the FISHERMAN
+![alt text](NPC-Oswin_the_Fisherman.png)
 __Description:__ A lean man in his thirties with a tanned face and salt-streaked hair. He carries a handmade fishing spear and is often seen near the stream, teaching others to fish or cleaning the day’s catch. He wears a rough, oil-stained tunic and keeps a simple pendant of a fish around his neck. 
 Oswin is easygoing and good-natured, content with the simplicity of life in the woods. He fled his coastal village after being blamed for the disappearance of a nobleman’s goods during a storm—an accusation that was never proven but left him with no other choice. Oswin is a source of calming presence in the camp, often singing old sea shanties to lighten the mood. 
 
 ## RHEDA the WIDOW
+![alt text](NPC-Rheda_the_Widow.png)
 __Description:__ A woman in her early fifties, with a stern face softened by the lines of grief. She wears simple woollen clothes, and her hands bear the marks of years spent working the fields. Rheda’s dark hair is streaked with grey, and she wears a silver brooch—a keepsake from her late husband. 
 Rheda lost her husband during a raid by soldiers, who then seized their farm for a local lord. With nowhere else to go, she found her way to the outlaws. She has become a motherly figure in the camp, offering advice and helping with daily chores. Though she is quiet and reserved, she harbours a deep anger toward the nobility and supports any efforts to disrupt their control over the region. 
 
 ## WULFSTAN the CARTER
+![alt text](NPC-Wulfstan_the_Carter.png)
 __Description:__ A lanky man in his thirties with a crooked nose that has clearly been broken more than once. His face is lean and gaunt, with a scruffy beard and sunburned skin from years of working outdoors. He wears a simple woollen cloak and boots that have seen better days. Despite his rough appearance, he has a quick wit and an easy smile, often trying to lighten the mood with his dry humour. 
 
 __Relationships:__ Married to Ellyn, Stepfather of Ada
