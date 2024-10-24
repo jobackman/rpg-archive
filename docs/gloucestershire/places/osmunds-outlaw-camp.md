@@ -1,6 +1,6 @@
 # Osmunds outlaw camp
 ## ADA
-![alt text](<NPC - Ada.png>)
+![alt text](<NPC-Ada.png>)
 __Description:__ Ada is a 15-year-old girl with long, dark brown hair, usually worn in a simple braid. Her hazel eyes have a thoughtful, watchful look, suggesting maturity beyond her years. Though youthful, her face has a few freckles, and her slim, wiry build shows the demands of life in the outlaw camp. She wears practical, hand-me-down clothes, often rolling up the sleeves. Ada helps her mother, Ellyn, around the camp, and carries a small dagger at her belt, ready to defend herself if needed. Her demeanour is quiet and cautious, but there's a hint of curiosity and determination. 
 
 __Relationships:__ Daughter to Ellyn, Stepdaughter to Wulfstan
