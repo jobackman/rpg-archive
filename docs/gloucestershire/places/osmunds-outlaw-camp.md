@@ -6,6 +6,7 @@ __Description:__ Ada is a 15-year-old girl with long, dark brown hair, usually w
 __Relationships:__ Daughter to Ellyn, Stepdaughter to Wulfstan
 
 ## AGNES the WITCH
+![alt text](NPC-Agnes_the_Witch.png)
 __Description:__ Is a young woman in her early twenties, who had to flee after she was accused of witchcraft by a neighbouring village. Her hair is auburn, falling in loose waves to her shoulders, often kept tucked behind her ears or tied back when she is focused on a task. She wears simple, worn clothing — handmade tunics and a patchwork cloak, practical for survival in the woods. Agnes is usually seen gathering herbs or weaving small charms from twigs, a habit that harks back to the superstitions that led to her accusations of witchcraft.
 
 __Relationships:__ Partner to Cutbert
@@ -13,6 +14,7 @@ __Relationships:__ Partner to Cutbert
 __Archetype:__ Cunning folk (Wortcunner)
 
 ## ALARIC the BLACKSMITH
+![alt text](NPC-Alaric_the_Blacksmith.png)
 __Description:__ A burly man in his early forties with a thick, unruly beard and powerful arms that speak to his years of work at the forge. His hands are calloused, and there’s a permanent smell of soot about him. He wears a worn leather apron over a simple tunic, with a blackened hammer tucked into his belt. His face is often stern, but there’s a hint of warmth in his deep-set brown eyes.
 
 __Relationships:__ Married to Mildred, father of Edwin.
@@ -20,11 +22,13 @@ __Relationships:__ Married to Mildred, father of Edwin.
 __Archetype:__ Artificer (Blacksmith)
 
 ## ALICE
+
 __Description:__ TBD
 
 __Relationships:__ Daughter to Matilda
 
 ## ANSELM the COOPER
+![alt text](NPC-Anselm_the_Cooper.png)
 __Description:__ A sturdy man in his mid-fifties, with a thick beard streaked with grey and hands toughened by years of shaping wood. He has a missing finger on his left hand—a souvenir from a workshop accident long ago. Anselm wears a patched wool tunic and is always tinkering with woodwork, making small repairs around the camp. 
 Anselm is practical and quiet, preferring the company of his tools to idle chatter. He lost his trade when he refused to pay a bribe demanded by a corrupt official, leading to accusations of theft that forced him to flee. 
 
@@ -33,10 +37,12 @@ __Relationships:__ He is very loyal to Brother Osmund.
 __Archetype:__ Artificer (Cooper/Barrel maker)
 
 ## BEATRICE the WEAVER
+![alt text](NPC-Beatrice_the_Weaver.png)
 __Description:__ A woman in her late twenties with a quiet, gentle demeanour, Beatrice has dark, curly hair and a slender build. Her hands are always busy, weaving baskets or repairing clothing for the camp. She has a soft spot for the children in the camp, often telling them stories while she works. 
 Beatrice is kind and patient, but she harbours a deep sadness. She lost her home and trade after being accused of spreading seditious rumours against a local lord, which she claims were exaggerated by rivals. She keeps to herself most of the time but is always willing to lend a hand to those in need. Her calm presence often helps to defuse tensions between the camp’s more hot-headed members. 
 
 ## CEDRIC the TANNER
+![alt text](NPC-Cedric_the_Tanner.png)
 __Description:__ Cedric is a wiry man in his early forties with a gaunt face and a permanent squint, the result of years working with hides and foul-smelling chemicals. He has shaggy, unkempt hair and is often seen wearing a thick leather apron, even in the camp. He’s practical and gruff, but he has a dry sense of humour that surfaces in unexpected moments. 
 Cedric is a realist, never sugar-coating their situation but always focusing on what needs to be done to survive. He is fiercely loyal to Brother Osmund, having known him from his time in a nearby village, and respects Osmund’s vision of building a community rather than just a band of outlaws. He is suspicious of Gareth’s growing influence and keeps a close eye on him. 
 
@@ -58,6 +64,7 @@ __Description:__ TBD
 __Relationships:__ Married to Wulfstan, Mother of Ada
 
 ## GARETH the WOODSMAN
+![alt text](NPC-Gareth_the_Woodsman.png)
 __Description:__ Gareth is a burly, middle-aged man with a friendly smile and a booming laugh. He has short-cropped dark hair, a weathered face, and the rough hands of a man used to swinging an axe. He quickly makes newcomers feel welcome, sharing stories of his days in the woods and offering to help with camp tasks. 
 
 __Archetype:__ Yeoman (Woodsman)
@@ -68,10 +75,12 @@ __Description:__ TBD
 __Relationships:__ Daughter to Matilda
 
 ## HILDA the COOK
+![alt text](NPC-Hilda_the_Cook.png)
 __Description:__ A robust woman in her forties with a ruddy complexion and a no-nonsense demeanour. She has her hair tied back in a simple cloth, and she’s often seen stirring a pot over the campfire or scolding others for wasting food. Despite her stern manner, she cares deeply about feeding the camp’s residents. 
 Hilda was dismissed from her position after being accused of stealing from the pantry—an accusation she vehemently denies. She found a new sense of purpose among the outlaws, ensuring no one goes hungry. Hilda is protective of the children in the camp and has a soft spot for Beatrice, whom she treats like a younger sister. 
 
 ## HUGH the FORRESTER
+![alt text](NPC-Hugh_the_Forester.png)
 __Description:__ A former forester who knows the Forest of Dean like the back of his hand. Hugh is lean and wiry, with a quiet, observant nature, making him an excellent scout. He often helps Meraud gather herbs from the forest and tends to the camp’s traps and snares. 
 
 __Relationships:__ Partner of Meraud
@@ -79,11 +88,13 @@ __Relationships:__ Partner of Meraud
 __Archetype:__ Yeoman (Forester)
 
 ## MATILDA the BAKER
+![alt text](NPC-Matilda_the_Baker.png)
 __Description:__ A widowed mother with two children. Matilda takes care of the camp’s oven, baking bread when flour is available. From time to time she is also able to brew ale. 
 
 __Relationships:__ Mother of Alice and Henry
 
 ## MERAUD the HEALER 
+![alt text](NPC-Meraud_the_Healer.png)
 __Description:__ A middle-aged woman with long, dark hair streaked with grey, tied back in a braid. Her clothes are practical, patched in several places, and she carries a satchel filled with various herbs and rudimentary medical supplies. Her hands are stained from years of working with plants and remedies. She has a gentle, calming presence, though her green eyes betray a fierce determination. 
 
 __Relationships:__ Partner of Hugh
@@ -91,6 +102,7 @@ __Relationships:__ Partner of Hugh
 __Archetype:__ Cunning folk (Healer)
 
 ## MILDRED
+![alt text](NPC-Mildred.png)
 __Description:__ A sturdy woman with a calm demeanour, her hands rough from years of working alongside Alaric in his former smithy. She helps organise the camp’s daily tasks, ensuring that everyone pulls their weight. Mildred is practical and protective, especially of her son Edwin, but she is also the first to offer a warm smile and a shared meal to newcomers. 
 
 __Relationships:__ Married to Alaric, mother of Edwin. 
