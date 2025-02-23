@@ -21,9 +21,9 @@
 
 ## Beliefs:
 
-- The gods are not beyond reach, and neither is Nikou. If I must step into the shadows to find her, I will.
+- I must walk the path between gods and take what both have to offer.
 - The world calls me cursed, but my sister needs me—I will wield this affliction and defy their superstitions.
-- The weak cling to what they are. The strong accept what they must become.
+- The weak cling to what they are. The faithful accept what they must become.
 
 ## Instincts:
 
