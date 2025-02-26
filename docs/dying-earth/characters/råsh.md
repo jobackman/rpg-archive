@@ -69,20 +69,20 @@ Ghundrûl-Kheldrak = Klan
 
 Råsh har varit med Urist, hans Gurkul, i många år nu, och hans Brahmach har nu nått sitt slut, och han har bestämt sig för att gå in i Kahmach. Något som man kan läsa av i hans hår och skägg.
 
-## Beliefs
+> ## Beliefs
+> 
+> 1. The gods made Dwarves for machines, not men—if I craft something grand enough, they will take me back.
+> 2. Jerryfucious and his brass arm are proof that I am the finest craftsman in Seraphin. I will make him greater, and through him, myself.
+> 3. If I die without creating something that the world will remember, I may as well have never lived.
 
-1. The gods made Dwarves for machines, not men—if I craft something grand enough, they will take me back.
-2. Jerryfucious and his brass arm are proof that I am the finest craftsman in Seraphin. I will make him greater, and through him, myself.
-3. If I die without creating something that the world will remember, I may as well have never lived.
+> ## Instincts
+> 
+> 1. Always touch a new machine before working on it; feel its soul.
+> 2. When someone speaks of lost knowledge, take notes.
+> 3. Keep my scarabs close; they hear things I do not.
 
-## Instincts
-
-1. Always touch a new machine before working on it; feel its soul.
-2. When someone speaks of lost knowledge, take notes.
-3. Keep my scarabs close; they hear things I do not.
-
-## Traits
-
-1. **Great Plan’s Curse:** His obsession with invention keeps him awake at night and distracted at the worst times.
-2. **Smell for Metal:** He can identify alloys by scent alone.
-3. **Hopeless Romantic:** Falls for beauty, in craft and in people, with equal passion.
+> ## Traits
+> 
+> 1. **Great Plan’s Curse:** His obsession with invention keeps him awake at night and distracted at the worst times.
+> 2. **Smell for Metal:** He can identify alloys by scent alone.
+> 3. **Hopeless Romantic:** Falls for beauty, in craft and in people, with equal passion.
