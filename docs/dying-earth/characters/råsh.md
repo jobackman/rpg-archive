@@ -7,7 +7,7 @@ Fullständig namn: _Kah-Råshgâr Durmkhazûn-Thrandûl Zôr-Urist dûm-Ghundrû
 ## Character sheet
 
 | Stat  | Value |     |    |
-| ----- | -- | -- | -- |
+| ----- | --- | --- | --- |
 | 💪Str |  8 | 🧡HP  |  9 |
 | 🪶Agi | 11 | 🗡AV  | 11 |
 | 🪨Tgh | 15 | 🛡DF  |  2 |
