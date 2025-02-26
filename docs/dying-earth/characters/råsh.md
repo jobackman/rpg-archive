@@ -50,14 +50,15 @@ Råsh is a young dwarf of 78 years and for many decades he served as an apprenti
 135 cm, 78 kg
 Fullständigt Namn: _Kah-Råshgâr Durmkhazûn-Thrandûl Zôr-Urist dûm-Ghundrûl-Kheldrak_
 
-kah = Life Phase\ 
-Råshgâr = Given Name\ 
-Durmkhazûn = Patronymic\
-Thrandûl = Matronymic\
-Zôr = Gille: Tinkers\
-Urist = Mästare\
-dûm =- Klanstatus, Temporär förvisning\
-Ghundrûl-Kheldrak = Klan\
+kah = Life Phase   
+Råshgâr = Given Name   
+Durmkhazûn = Patronymic   
+Thrandûl = Matronymic   
+Zôr = Gille: Tinkers   
+Urist = Mästare   
+dûm =- Klanstatus, Temporär förvisning   
+Ghundrûl-Kheldrak = Klan   
+
 ## Background
 
 
