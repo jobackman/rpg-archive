@@ -16,6 +16,9 @@ Fullständig namn: _Kah-Råshgâr Durmkhazûn-Thrandûl Zôr-Urist dûm-Ghundrû
 | 👄Cha | 14 | 👑Lvl |  3 |
 
 Rolling initiative = Roll for D6 modified 
+
+Critical Roll = Double Damage in Combat
+
 ### Skill modifiers:
 | Roll | Mod |
 | ---- | --- |
@@ -31,6 +34,9 @@ Once per day, the Clever get a hefty +6 bonus for an unorthodox attempt to solve
 Out of the box thinking can for example involve odd tools or materials, or apply a strange or at least original method. Further modifications can be applied, usually a negative one to account for the fact that a particular idea is also a bit bizarre with some serious drawback.
 
 The clever treat all successful or critical rolls for clues, information gathering and detection as a pair, meaning that they get something extra out of it.
+
+### Modifiers
++1 understanding Aqueducts.
 
 ### Languages
 - Common / Seraphinska
