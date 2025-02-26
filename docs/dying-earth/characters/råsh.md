@@ -15,8 +15,10 @@
 
 Rolling initiative = Roll for D6 modified 
 ### Skill modifiers:
-| 13- | +1 |
-| 16- | +2 |
+| Roll | Mod |
+| ---- | --- |
+|  13- |  +1 |
+|  16- |  +2 |
 
 ### Knacks
 No of Slots: 1
