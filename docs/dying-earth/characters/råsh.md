@@ -1,5 +1,7 @@
 # Råsh the Dwarf
 
+Fullständig namn: _Kah-Råshgâr Durmkhazûn-Thrandûl Zôr-Urist dûm-Ghundrûl-Kheldrak_
+
 <img src="https://github.com/jobackman/rpg-archive/assets/260888/68b92406-5215-4e89-83e9-4c615de4d847" width=250 />
 
 ## Character sheet
