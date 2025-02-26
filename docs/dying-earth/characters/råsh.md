@@ -21,6 +21,21 @@
 |       |         |
 | 👑Lvl | 3       |
 
+### Knacks
+No of Slots: 1
+Slot 1: +4 to task rolls with or concerning machines.
+
+### Special Abilities
+Once per day, the Clever get a hefty +6 bonus for an unorthodox attempt to solve a non-combat related problem.
+Out of the box thinking can for example involve odd tools or materials, or apply a strange or at least original method. Further modifications can be applied, usually a negative one to account for the fact that a particular idea is also a bit bizarre with some serious drawback.
+
+The clever treat all successful or critical rolls for clues, information gathering and detection as a pair, meaning that they get something extra out of it.
+
+### Languages
+- Common / Seraphinska
+- Dwarfish
+- Underworld Seraphin
+
 ## Description
 
 Råsh is a young dwarf of 78 years and for many decades he served as an apprentice to master artificer Urist. Urist and Råsh were sent on exile from their Dwarven home because Urist's great plan didn’t align with the rest of the society. Like most dwarves Råsh has an incredible intuition when it comes to craft, ancient technology and machines at large. He and his master designed the brass arm that Jerryfucious is wearing. He has been in debt to the party after they helped him save his master (Urist) and has sworn to help them until the debt is repaid. Råsh has two brass scarabs that can fly and scout ahead; they were made by master Urist but are now maintained by Råsh. He is known to be a bit womanizer and is touched deeply by fine craftsmanship.
