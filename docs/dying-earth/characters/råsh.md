@@ -48,7 +48,16 @@ The clever treat all successful or critical rolls for clues, information gatheri
 Råsh is a young dwarf of 78 years and for many decades he served as an apprentice to master artificer Urist. Urist and Råsh were sent on exile from their Dwarven home because Urist's great plan didn’t align with the rest of the society. Like most dwarves Råsh has an incredible intuition when it comes to craft, ancient technology and machines at large. He and his master designed the brass arm that Jerryfucious is wearing. He has been in debt to the party after they helped him save his master (Urist) and has sworn to help them until the debt is repaid. Råsh has two brass scarabs that can fly and scout ahead; they were made by master Urist but are now maintained by Råsh. He is known to be a bit womanizer and is touched deeply by fine craftsmanship.
 
 135 cm, 78 kg
+Fullständigt Namn: _Kah-Råshgâr Durmkhazûn-Thrandûl Zôr-Urist dûm-Ghundrûl-Kheldrak_
 
+kah = Life Phase, 
+Råshgâr = Given Name, 
+Durmkhazûn = Patronymic,
+Thrandûl = Matronymic,
+Zôr = Gille: Tinkers,
+Urist = Mästare,
+dûm =- Klanstatus, Temporär förvisning
+Ghundrûl-Kheldrak = Klan
 ## Background
 
 
