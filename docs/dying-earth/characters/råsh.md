@@ -87,3 +87,12 @@ Råsh har varit med Urist, hans Gurkul, i många år nu, och hans Brahmach har n
 > 1. **Great Plan’s Curse:** His obsession with invention keeps him awake at night and distracted at the worst times.
 > 2. **Smell for Metal:** He can identify alloys by scent alone.
 > 3. **Hopeless Romantic:** Falls for beauty, in craft and in people, with equal passion.
+
+
+Experience:
+1. Have we learned anything about the world: X   
+2. Have you overcome a great obstacle: -   
+3. Have we found anything significant treasure: -   
+4. Have you played your characters: Beliefs, Instincts, Traits: X   
+
+2025-02-26: 2xp, 1 & 4   
