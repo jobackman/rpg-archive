@@ -20,8 +20,38 @@
               "icon": "lucide-file",
               "title": "31 - new beginnings"
             }
+          },
+          {
+            "id": "70861852d78a6546",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "docs/dying-earth/canvas/31 - map.canvas",
+                "viewState": {
+                  "x": 651.7696993260062,
+                  "y": 122.86534495166698,
+                  "zoom": -0.21440521414212266
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "31 - map"
+            }
+          },
+          {
+            "id": "e87f576bade2a654",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/31-battle-map.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "31-battle-map"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,11 +197,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1b1502b492ccf896",
+  "active": "70861852d78a6546",
   "lastOpenFiles": [
+    "Excalidraw/31-battle-map.md",
     "docs/dying-earth/canvas/31 - map.canvas",
     "docs/dying-earth/session-notes/31 - new beginnings.md",
-    "Excalidraw/31-battle-map.md",
     "docs/dying-earth/character-stats.md",
     "docs/dying-earth/game-rules.md",
     "Excalidraw",

@@ -23,3 +23,28 @@ Han är redo med hammaren att slå på fingrarna av den goblin som försöker ta
 Goblins moral är för låg, de försöker fly. Hoppar ner i strömmande vattnet, men fastnar i vattentrycket mo väggen. Andra börjar klättra längs med väggarna. 
 
 En av människorna knuffar Råsh "ur vägen dvärg!". Han verkar ha panik, Råsh tar ett steg åt sidan. Men lägger en hand på maskinen och "föröker bli ett" med den. Snubben drar i spakar. Han drar i nånting, dörrarna öppnas och goblins spolas bort. Råsh tar fram ett anteckningsblock och öppnar en tom sida och antecknar ner vad snubben gjorde. Rullar för att förstå vad som gjorde: får +1 "understanding aqueduct". 
+
+Jerry går och hälsar på snubben, Valox Dunwar. "Har tarsis skickat er hit också?"
+
+## Flashback:
+Lord Tarsis Vayne. Det var problem i staden Liraq, och tarsis sökte folk som kunde hjälpa honom. Vi hade nån form av foten inne i dörren där för att få ett uppdrag. 
+
+Lord tarsis stad är lite som Gondor's minas tirith. Staden har vatten  som rinner längs med bergskanten nedåt och blir smutsigare, tråkigare etc. Vi ska till lord Tarsis högst upp. Nerifrån och upp. Det vi har hört från vår kontakt är att vattnet har sinat. Nu är det ganska lite som rinner nedåt. De lägre nivåerna av staden har knappt vatten. Staden ligger runt en öken, så hur ska det gå nu. Vi tar oss högt upp, blir insläppta till lorden. Super dekadent, överflådigt fancy badhus på toppen. Grekisk romersk stil. Kolumner, mosaik. Fancy fucking shit. Både nybyggt och gammalt. Vi leds in, många pooler, folk i tågor, romersk badhus stil. När vi möts med tarsis så sitter han i ett bad. Poolen är typ infinite pool, vatten ut till horisonten. Ser ut över staden. Tittar på oss, suckar och säger "Vilka är ni?" Jerry introucerar alla. Snubben har prune;at som ba fan, han har suttit lääänge i sin pool. Han berättar att nånging har hänt med akvedukterna där inne i berget. Inne i berget finns en order av mechanics som har underhållt vattnet åt alla i hundratals år. Men av någån anledninge har måste kompetensen ha dvindlat under åren, så han behöver hjälp att ta oss in och lösa proppen. Råsh frågar om de 3 andra vattenledningarna (det finns 4, han bad oss bara lösa en) är av nån hjälp, han vill bara ha vatten forsande genom sin. Det finns andra nobles som har vatten kopplade till de andra rören.
+
+Vi har ett uppdrag: lös proppen.
+
+Jerry föreslår att vi kanske pratar med andra nobles också innan vi går in i dungeonen. 
+
+# End of session
+- Have we learned anything about the world? 
+	- Yes
+- Have we defeated a significant encounter? 
+	- No
+- Have we found any significant treasure?
+	- No
+
+## Total exp
+- Rouya: 2
+- Jerry: 1
+- Råsh: 2
+- Aeryn: 1
