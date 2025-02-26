@@ -20,25 +20,30 @@ Rolling initiative = Roll for D6 modified
 Critical Roll = Double Damage in Combat
 
 ### Skill modifiers:
+
 | Roll | Mod |
 | ---- | --- |
 |  13- |  +1 |
 |  16- |  +2 |
 
 ### Knacks
+
 No of Slots: 1
 Slot 1: +4 to task rolls with or concerning machines.
 
 ### Special Abilities
+
 Once per day, the Clever get a hefty +6 bonus for an unorthodox attempt to solve a non-combat related problem.
 Out of the box thinking can for example involve odd tools or materials, or apply a strange or at least original method. Further modifications can be applied, usually a negative one to account for the fact that a particular idea is also a bit bizarre with some serious drawback.
 
 The clever treat all successful or critical rolls for clues, information gathering and detection as a pair, meaning that they get something extra out of it.
 
 ### Modifiers
+
 +1 understanding Aqueducts.
 
 ### Languages
+
 - Common / Seraphinska
 - Dwarfish
 - Underworld Seraphin
@@ -65,6 +70,7 @@ Ghundrûl-Kheldrak = Klan
 Råsh har varit med Urist, hans Gurkul, i många år nu, och hans Brahmach har nu nått sitt slut, och han har bestämt sig för att gå in i Kahmach. Något som man kan läsa av i hans hår och skägg.
 
 ## Beliefs
+
 1. The gods made Dwarves for machines, not men—if I craft something grand enough, they will take me back.
 2. Jerryfucious and his brass arm are proof that I am the finest craftsman in Seraphin. I will make him greater, and through him, myself.
 3. If I die without creating something that the world will remember, I may as well have never lived.
