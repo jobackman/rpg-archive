@@ -56,7 +56,7 @@ Durmkhazûn = Patronymic
 Thrandûl = Matronymic   
 Zôr = Gille: Tinkers   
 Urist = Mästare   
-dûm =- Klanstatus, Temporär förvisning   
+dûm = Klanstatus: Temporär förvisning   
 Ghundrûl-Kheldrak = Klan   
 
 ## Background
