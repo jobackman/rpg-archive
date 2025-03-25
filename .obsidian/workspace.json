@@ -1,71 +1,37 @@
 {
   "main": {
-    "id": "a8e4304337e4f143",
+    "id": "3adccfba2ed81f85",
     "type": "split",
     "children": [
       {
-        "id": "fb0915acf0e3c2a8",
+        "id": "195e7b8871046ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "f3b83aa921992042",
+            "id": "06d3a57765104e49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/dying-earth/session-notes/31 - new beginnings.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "31 - new beginnings"
-            }
-          },
-          {
-            "id": "70861852d78a6546",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "docs/dying-earth/canvas/31 - map.canvas",
-                "viewState": {
-                  "x": 651.7696993260062,
-                  "y": 122.86534495166698,
-                  "zoom": -0.21440521414212266
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "31 - map"
-            }
-          },
-          {
-            "id": "e87f576bade2a654",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/31-battle-map.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "31-battle-map"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8d20c60c390768d1",
+    "id": "009404ee78ab919c",
     "type": "split",
     "children": [
       {
-        "id": "d99b59802369863f",
+        "id": "eb98fff4dae7d0a2",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1502b492ccf896",
+            "id": "d838b3f47017e395",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -78,7 +44,7 @@
             }
           },
           {
-            "id": "081e95a1f605c48a",
+            "id": "9d5f72c3a98b15b8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +61,7 @@
             }
           },
           {
-            "id": "71d258afcd01d27e",
+            "id": "aef5f46516b4a00b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -108,23 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
-    "id": "64f97d0cce515c7a",
+    "id": "1f6a98b24320ee4b",
     "type": "split",
     "children": [
       {
-        "id": "0fd711450ea0f650",
+        "id": "3b5c9551e5e72306",
         "type": "tabs",
         "children": [
           {
-            "id": "e12e1cc2488b635a",
+            "id": "e521f9053975af69",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/dying-earth/session-notes/31 - new beginnings.md",
+                "file": "docs/dying-earth/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,24 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 31 - new beginnings"
+              "title": "Backlinks for About"
             }
           },
           {
-            "id": "e0227fa56e143454",
+            "id": "8a2f22371370d3d0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/dying-earth/About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from About"
             }
           },
           {
-            "id": "8d6d16d078d0be68",
+            "id": "6190b53154793360",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,25 +133,36 @@
             }
           },
           {
-            "id": "674e82ad0f078efa",
+            "id": "49f821e68278fb51",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2025-03-25 19.45.45.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Drawing 2025-03-25 19.45.45.excalidraw"
+            }
+          },
+          {
+            "id": "990190b4edc0d331",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,22 +172,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "rpg-manager:RPG Manager": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "70861852d78a6546",
+  "active": "d838b3f47017e395",
   "lastOpenFiles": [
     "Excalidraw/31-battle-map.md",
-    "docs/dying-earth/canvas/31 - map.canvas",
-    "docs/dying-earth/session-notes/31 - new beginnings.md",
-    "docs/dying-earth/character-stats.md",
-    "docs/dying-earth/game-rules.md",
+    "Dying Earth/Dying Earth.md",
+    "Excalidraw/Drawing 2025-03-25 19.45.45.excalidraw.md",
     "Excalidraw",
+    "docs/dying-earth/character-stats.md",
+    "docs/dying-earth/characters/rouya.md",
+    "Untitled 1",
+    "README.md",
+    "Dying Earth",
+    "Untitled",
+    "campaign",
+    "docs/dying-earth/canvas/31 - map.canvas",
     "docs/dying-earth/About.md",
-    "docs/dying-earth/npcs.md",
+    "docs/dying-earth/session-notes/31 - new beginnings.md",
     "docs/dying-earth/canvas",
-    "docs/dying-earth/session-notes/30-years-later.md",
-    "2025-02-26.md",
-    "docs/dying-earth/characters/rouya.md"
+    "excalidraws",
+    "docs/dying-earth/character-sheet.md",
+    "docs/dying-earth/npcs.md",
+    "docs/dying-earth/game-rules.md",
+    "Pasted image 20250209230353.png",
+    "docs/dying-earth/characters/aeryn.md",
+    "docs/index.md"
   ]
 }
