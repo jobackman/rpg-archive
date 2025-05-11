@@ -1,20 +1,80 @@
 {
   "main": {
-    "id": "3adccfba2ed81f85",
+    "id": "a8e4304337e4f143",
     "type": "split",
     "children": [
       {
-        "id": "195e7b8871046ec5",
+        "id": "60dd5feeb129c363",
         "type": "tabs",
         "children": [
           {
-            "id": "06d3a57765104e49",
+            "id": "4464fae1a943bcc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/dying-earth/session-notes/31-new-beginnings.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "31-new-beginnings"
+            }
+          },
+          {
+            "id": "7896b7f3cf683ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dying-earth/Character-stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character-stats"
+            }
+          },
+          {
+            "id": "c7d1c614dc2c066b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dying-earth/characters/rouya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rouya"
+            }
+          },
+          {
+            "id": "d87e7953a020670d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dying-earth/characters/aeryn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aeryn"
+            }
+          },
+          {
+            "id": "5a195397e97f2c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dying-earth/characters/jerryfucious.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jerryfucious"
             }
           }
         ]
@@ -23,15 +83,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "009404ee78ab919c",
+    "id": "8d20c60c390768d1",
     "type": "split",
     "children": [
       {
-        "id": "eb98fff4dae7d0a2",
+        "id": "d99b59802369863f",
         "type": "tabs",
         "children": [
           {
-            "id": "d838b3f47017e395",
+            "id": "1b1502b492ccf896",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +104,7 @@
             }
           },
           {
-            "id": "9d5f72c3a98b15b8",
+            "id": "081e95a1f605c48a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +121,7 @@
             }
           },
           {
-            "id": "aef5f46516b4a00b",
+            "id": "71d258afcd01d27e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +134,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300
   },
   "right": {
-    "id": "1f6a98b24320ee4b",
+    "id": "64f97d0cce515c7a",
     "type": "split",
     "children": [
       {
-        "id": "3b5c9551e5e72306",
+        "id": "0fd711450ea0f650",
         "type": "tabs",
         "children": [
           {
-            "id": "e521f9053975af69",
+            "id": "e12e1cc2488b635a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/dying-earth/About.md",
+                "file": "docs/dying-earth/session-notes/31-new-beginnings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +160,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for About"
+              "title": "Backlinks for 31-new-beginnings"
             }
           },
           {
-            "id": "8a2f22371370d3d0",
+            "id": "e0227fa56e143454",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/dying-earth/About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from About"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "6190b53154793360",
+            "id": "8d6d16d078d0be68",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,36 +192,25 @@
             }
           },
           {
-            "id": "49f821e68278fb51",
+            "id": "674e82ad0f078efa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-25 19.45.45.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-03-25 19.45.45.excalidraw"
-            }
-          },
-          {
-            "id": "990190b4edc0d331",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-options",
-              "state": {},
-              "icon": "d20",
-              "title": "RPG Manager"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,33 +220,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "rpg-manager:RPG Manager": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d838b3f47017e395",
+  "active": "4464fae1a943bcc5",
   "lastOpenFiles": [
-    "Excalidraw/31-battle-map.md",
-    "Dying Earth/Dying Earth.md",
-    "Excalidraw/Drawing 2025-03-25 19.45.45.excalidraw.md",
-    "Excalidraw",
-    "docs/dying-earth/character-stats.md",
+    "docs/dying-earth/session-notes/32-badhus-del-2.md",
+    "docs/dying-earth/session-notes/31-new-beginnings.md",
+    "docs/dying-earth/session-notes/30-years-later.md",
+    "docs/dying-earth/Character-stats.md",
     "docs/dying-earth/characters/rouya.md",
-    "Untitled 1",
-    "README.md",
-    "Dying Earth",
-    "Untitled",
-    "campaign",
-    "docs/dying-earth/canvas/31 - map.canvas",
-    "docs/dying-earth/About.md",
-    "docs/dying-earth/session-notes/31 - new beginnings.md",
-    "docs/dying-earth/canvas",
-    "excalidraws",
-    "docs/dying-earth/character-sheet.md",
-    "docs/dying-earth/npcs.md",
-    "docs/dying-earth/game-rules.md",
-    "Pasted image 20250209230353.png",
     "docs/dying-earth/characters/aeryn.md",
-    "docs/index.md"
+    "docs/dying-earth/characters/jerryfucious.md",
+    "Excalidraw/31-battle-map.md",
+    "docs/dying-earth/canvas/32 - map.canvas",
+    "docs/dying-earth/canvas/31 - map.canvas",
+    "docs/dying-earth/canvas",
+    "Excalidraw",
+    "docs/dying-earth/character-sheet.md",
+    "docs/dying-earth/game-rules.md",
+    "docs/dying-earth/About.md",
+    "docs/dying-earth/npcs.md",
+    "2025-02-26.md"
   ]
 }
