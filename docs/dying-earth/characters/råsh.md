@@ -1,4 +1,4 @@
-# Råsh the Dwarf
+# Råsh the Dwarf (lvl 3)
 
 Fullständig namn: _Kah-Råshgâr Durmkhazûn-Thrandûl Zôr-Urist dûm-Ghundrûl-Kheldrak_
 
