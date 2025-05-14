@@ -131,13 +131,13 @@ Tgh = Toughness
 Int = Intelligence    
 Wil = Willpower    
 Cha = Charisma    
-HP = Hit Points    
-AV =    
-DF =    
-MV =    
-SV =   
+HP = Harm Points    
+AV = Attack Value   
+DF = Defense (How hard you are to Harm)   
+MV = Move   
+SV = Save Value  
 Lvl = Level   
-HD =     
+HD = Harm Dice (HD * D6 = new HP (if higher than before))    
 
 ## Knacks to choose from
 1. The Clever can exploit combat situations. The base bonus for combat advantage is +3 instead of +2, and once per battle they may switch the d6 for the d10 as damage die.
