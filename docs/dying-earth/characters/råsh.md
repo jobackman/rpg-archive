@@ -96,6 +96,6 @@ Experience:
 4. Have you played your characters: Beliefs, Instincts, Traits: X   
 
 2025-02-26: 2xp, 1 & 4   
-2025-03-26: 2xp
+2025-03-26: 2xp    
 2025-05-14: 2xp, 1 & 4
 Totalt: 6
