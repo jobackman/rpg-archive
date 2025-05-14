@@ -95,6 +95,7 @@ Experience:
 3. Have we found anything significant treasure: -   
 4. Have you played your characters: Beliefs, Instincts, Traits: X   
 
-2025-02-26: 2xp, 1 & 4   
-2025-03-26: 2xp
-Totalt: 4
+2025-02-26: 2 xp, 1 & 4   
+2025-03-26: 2 xp, ?
+2025-05-14: 2 xp, 1 & 4
+Totalt: 6
