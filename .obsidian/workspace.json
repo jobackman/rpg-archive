@@ -4,39 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "60dd5feeb129c363",
+        "id": "5bc86793eae3819c",
         "type": "tabs",
+        "dimension": 61.86823104693141,
         "children": [
           {
-            "id": "4464fae1a943bcc5",
+            "id": "c3cc322953fdf29e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dying-earth/session-notes/31-new-beginnings.md",
+                "file": "docs/dying-earth/session-notes/33-the-deep-end.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31-new-beginnings"
+              "title": "33-the-deep-end"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d83f1eb121d7b94d",
+        "type": "tabs",
+        "dimension": 38.13176895306859,
+        "children": [
           {
             "id": "382d593f293f7441",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dying-earth/session-notes/32-badhus-del-2.md",
+                "file": "docs/dying-earth/character-stats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32-badhus-del-2"
+              "title": "character-stats"
+            }
+          },
+          {
+            "id": "1d1d2fa0e8847197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dying-earth/characters/rouya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rouya"
+            }
+          },
+          {
+            "id": "5cf275bbe7da8cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dying-earth/characters/aeryn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aeryn"
+            }
+          },
+          {
+            "id": "15d5509628364e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dying-earth/characters/jerryfucious.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jerryfucious"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,22 +232,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "382d593f293f7441",
+  "active": "c3cc322953fdf29e",
   "lastOpenFiles": [
+    "docs/dying-earth/session-notes/31-new-beginnings.md",
+    "docs/dying-earth/session-notes/32-badhus-del-2.md",
+    "docs/dying-earth/session-notes/33-the-deep-end.md",
+    "docs/dying-earth/characters/jerryfucious.md",
+    "docs/dying-earth/characters/aeryn.md",
+    "docs/dying-earth/characters/rouya.md",
+    "docs/dying-earth/character-stats.md",
+    "docs/dying-earth/canvas/31 - map.canvas",
+    "docs/dying-earth/canvas/33 - map.canvas",
+    "docs/dying-earth/canvas/32 - map.canvas",
     "docs/dying-earth/session-notes/21-Back-to-Tairo.md",
     "docs/assets/horror-noire/excalidraw/richard-cardigan.excalidraw.png",
     "docs/dying-earth/general-notes/Dwarwes.md",
     "docs/dying-earth/game-rules.md",
-    "docs/dying-earth/canvas/31 - map.canvas",
-    "docs/dying-earth/characters/rouya.md",
-    "docs/dying-earth/canvas/32 - map.canvas",
-    "docs/dying-earth/character-stats.md",
-    "docs/dying-earth/session-notes/32-badhus-del-2.md",
-    "docs/dying-earth/session-notes/31-new-beginnings.md",
     "docs/dying-earth/session-notes/30-years-later.md",
     "docs/dying-earth/Character-stats.md",
-    "docs/dying-earth/characters/aeryn.md",
-    "docs/dying-earth/characters/jerryfucious.md",
     "Excalidraw/31-battle-map.md",
     "docs/dying-earth/canvas",
     "Excalidraw",
