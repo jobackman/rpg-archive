@@ -62,7 +62,7 @@ inverted to put fear in enemies (15 ft radius, −1 av and sv).
 	- Side 1: Fleshweaver’s Grace
 	- Side 2: Eldritch Reshaping
 	- Side 3: The Maw of Uzdhal Ghoros
-- Slot 2 
+- Slot 2
 	- Side 1: The Black Veil (shadowbinding, lunar sorcery)
 	- Side 2: Voice of Enja (divine communion, ritual power)
 
