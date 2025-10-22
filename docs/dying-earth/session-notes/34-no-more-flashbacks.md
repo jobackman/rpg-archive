@@ -112,7 +112,7 @@ Delar av tecknen är bortsuddade.  Det här är någon som har scribblat på vä
 Råsh ska toucha maskinen och bli ett med en 😏, special ability: **fail**. 
 Det är inte gjort av dvärgar. Han försöker verkligen dra till minnes, vad är poängen med det här. 
 
-Råsh är vill dö och bestämmer sig för att vaska ryggsäcks-vattnet i munnen på statyn. Rullar för save: **FAIL**.. 
+Råsh vill dö och bestämmer sig för att vaska ryggsäcks-vattnet i munnen på statyn. Rullar för save: **FAIL**.. 
 - **Råsh har  -2 willpower tillsvidare.** 
 - Jerry som försökte skydda honom igen får också **-2 willpower**. 
 
@@ -131,5 +131,5 @@ Alla börjar jibjabba om vem som ska ner i brunne, areyn tömmer sin vinplunta f
 Jerry är obstinat över att den inte kallade honom för lord. Blir pissig och kräver att den kallar honom för lord. Får rulla men lyckas (tyvärr). Den frågar igen. Jerry säger JA och vattnet sänks.
 
 ## Cliffhanger 
-Vi hör fotstegen av en crowd goblins (antagligen) lång bort i gången. Vi skyndar oss ner i brunnen. Vi spolar nedåt. Längre ner är mer granit/marmor än sten. Vi kommer ner till ett rum, en lägereld, det sitter tre individer där. 
+Vi hör fotstegen av en crowd goblins (antagligen) lång bort i gången. Vi skyndar oss ner i brunnen. Vi spolar nedåt. Längre ner är mer granit/marmor än sten. Vi kommer ner till ett rum, en lägereld, det sitter två individer där. 
 

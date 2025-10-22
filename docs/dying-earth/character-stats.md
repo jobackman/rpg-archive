@@ -1,13 +1,13 @@
 |       | Aeryn🗡 | Rouya🌛 | Jerry 💪 | Råsh 🔧 |
 | ----- | ------- | ------- | -------- | ------- |
-| 💪Str | 15      | 6       | 12       | 8       |
+| 💪Str | 15      | 6       | 12 (-2)  | 8       |
 | 🪶Agi | 10      | 10      | 8        | 11      |
 | 🪨Tgh | 10      | 12      | 11       | 15      |
 | 📖Int | 11      | 16      | 7        | 12      |
-| 👁Wil | 12      | 13      | 16       | 9       |
+| 👁Wil | 12      | 13      | 16 (-2)  | 9 (-1)  |
 | 👄Cha | 14      | 11      | 11       | 14      |
 |       |         |         |          |         |
-| 🧡HP  | 11      | 7       | 6        | 9       |
+| 🧡HP  | 11 (-1) | 7 (-2)  | 6 (-5)   | 9 (-3)  |
 | 🗡AV  | 13      | 11      | 12       | 11      |
 | 🛡DF  | 3<br>   | 2       | 2        | 2       |
 | 🏃MV  | 30      | 30      | 30-      | 25      |
@@ -73,6 +73,10 @@ Groups:
 Inventory:
 1. Dagger
 2. Leather armor
+3. 3 potions
+	1. En ser ut som vatten, men är lite mjölkig av sig
+	2. En som ser mer färgad, ljusblå i färgen (health potion, healar)
+	3. En som är mer grå-grumlig, trögflytande som sirap
 
 # Jerry
 - Str:12*
