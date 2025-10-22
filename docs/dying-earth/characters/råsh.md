@@ -12,7 +12,7 @@ Fullständig namn: _Kah-Råshgâr Durmkhazûn-Thrandûl Zôr-Urist dûm-Ghundrû
 | 🪶Agi | 11 | 🗡AV  | 11 |
 | 🪨Tgh | 15 | 🛡DF  |  2 |
 | 📖Int | 12 | 🏃MV  | 25 |
-| 👁Wil |  9-2=7 | 🍀SV  | 10 |
+| 👁Wil |  9-1=8 | 🍀SV  | 10 |
 | 👄Cha | 14 | 👑Lvl |  3 |
 
 Rolling initiative = Roll for D6 modified 
