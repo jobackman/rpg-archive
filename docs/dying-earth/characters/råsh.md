@@ -100,28 +100,30 @@ Råsh har varit med Urist, hans Gurkul, i många år nu, och hans Brahmach har n
 
 ## Experience:
 1. Have we learned anything about the world: X   
-2. Have you overcome a great obstacle: -   
-3. Have we found anything significant treasure: -   
+2. Have you overcome a great obstacle: X   
+3. Have we found anything significant treasure: X   
 4. Have you played your characters: Beliefs, Instincts, Traits: X   
 
 2025-02-26: 2xp, 1 & 4   
 2025-03-26: 2xp    
 2025-05-14: 2xp, 1 & 4
-Totalt: 6
+2025-10-08: 2xp, 1 & 4
+2025-10-22: 4xp, 1, 2, 3, 4
+Totalt: 12
 
 ## Clever Advancement
 | 👑Lvl | HD | 🗡AV | 🍀SV | Slots | Groups | Raises |
 | ---:  | :--- | :--- | :--- | :--- | :--- | :--- |
-| _1_   | _2_ |_10_ | _8_  | _1_    | _2_    | -   | 
-| _2_   | _2_ |_11_ | _9_  | _1_    | _2_    | _1_ | 
-| __3__ |_2+1_|_11_ |_10_  | _1_    | _2_    | _1_ | 
-| 4     | 3   | 11  | 11   | 2      | 3      | 2   | 
-| 5     | 3+1 | 12  | 12   | 2      | 3      | 2   | 
-| 6     | 4   | 12  | 13   | 2      | 3      | 3   | 
-| 7     | 4+1 | 13  | 14   | 3      | 4      | 3   | 
-| 8     | 5   | 13  | 15   | 3      | 4      | 4   | 
-| 9     | 5+1 | 13  | 16   | 3      | 4      | 4   | 
-| 10    | 6   | 14  | 17   | 4      | 5      | 5   | 
+|  _1_  | _2_ | _10_ |  _8_ |  _1_  |  _2_   | -   | 
+|  _2_  | _2_ | _11_ |  _9_ |  _1_  |  _2_   | _1_ | 
+|  _3_  |_2+1_| _11_ | _10_ |  _1_  |  _2_   | _1_ | 
+| __4__ |__3__|__11__|__11__| __2__ | __3__  |__2__| 
+| 5     | 3+1 |  12  |  12  |   2   |   3    |  2  | 
+| 6     | 4   |  12  |  13  |   2   |   3    |  3  | 
+| 7     | 4+1 |  13  |  14  |   3   |   4    |  3  | 
+| 8     | 5   |  13  |  15  |   3   |   4    |  4  | 
+| 9     | 5+1 |  13  |  16  |   3   |   4    |  4  | 
+| 10    | 6   |  14  |  17  |   4   |   5    |  5  | 
 
 ## Legend
 Str = Strength    
