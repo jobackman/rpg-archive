@@ -197,3 +197,35 @@ En kvinnlig mekanist står o drar i spakar o grejer, finns en massa saker i rumm
 
 Göran är också här. 
 
+## exp från 34
+
+- Learned about the world?
+	- yes
+- Significant obstacle/combat
+	- no
+- Significant treasure
+	- no
+- Played to our background, believes, instincts
+	- råsh: yes
+	- jerry: yes
+	- aeryn: yes
+	- rouya: yes
+
+**+2 exp alla** 
+
+## exp från nu
+- Learned about the world?
+	- yes
+- Significant obstacle/combat
+	- yes
+- Significant treasure
+	- yes
+- Played to our background, believes, instincts
+	- råsh: yes
+	- jerry: yes
+	- aeryn: yes
+	- rouya: yes
+
+**+4 exp för alla**
+
+## Alla levlar upp! 
