@@ -46,8 +46,8 @@ Out of the box thinking can for example involve odd tools or materials, or apply
 The clever treat all successful or critical rolls for clues, information gathering and detection as a pair, meaning that they get something extra out of it.
 
 ### Modifiers
-+1 Understanding Aqueducts.
-+1 Understanding Magical Moving Doors (Kargh Ishlas)
+- +1 Understanding Aqueducts.
+- +1 Understanding Magical Moving Doors (Kargh Ishlas)
 
 ### Languages
 - Common / Seraphinska
