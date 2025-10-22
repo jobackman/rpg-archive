@@ -12,7 +12,7 @@ Fullständig namn: _Kah-Råshgâr Durmkhazûn-Thrandûl Zôr-Urist dûm-Ghundrû
 | 🪶Agi | 11 | 🗡AV  | 11 |
 | 🪨Tgh | 15 | 🛡DF  |  2 |
 | 📖Int | 12 | 🏃MV  | 25 |
-| 👁Wil |  9 | 🍀SV  | 10 |
+| 👁Wil |  9-2=7 | 🍀SV  | 10 |
 | 👄Cha | 14 | 👑Lvl |  3 |
 
 Rolling initiative = Roll for D6 modified 
@@ -149,3 +149,8 @@ HD = Harm Dice (HD * D6 = new HP (if higher than before))
 7. The Clever are particularly good with substances - chemicals, herbs, poisons etc. They get +4 to identification and saves, as well as +1 in the character’s favor to any quantified effect.
 8. _The Clever have +4 to task rolls with or concerning machines._
 9. The Clever get +4 to tracking and to cover their own tracks.
+
+## Råsh Quotes
+* Mina verktyg vilar – alltså slösar vi tid.
+* Nämen fortsätt prata ni… jag ristar under tiden mitt gravtal.
+* Det där kittlar kuggarna.
