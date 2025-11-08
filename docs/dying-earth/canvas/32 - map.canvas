@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"a45e4f5960bb7ee3","type":"file","file":"docs/dying-earth/character-stats.md","x":820,"y":-320,"width":400,"height":700},
+		{"id":"a45e4f5960bb7ee3","type":"file","file":"docs/dying-earth/Character-stats.md","x":820,"y":-320,"width":400,"height":700},
 		{"id":"4a34d8dec135ccaa","type":"file","file":"docs/dying-earth/session-notes/32-badhus-del-2.md","x":240,"y":-320,"width":540,"height":1119}
 	],
 	"edges":[]

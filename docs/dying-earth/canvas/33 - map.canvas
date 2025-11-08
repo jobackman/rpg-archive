@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"e90bd6a14b1e6255","type":"file","file":"docs/dying-earth/character-stats.md","x":500,"y":0,"width":480,"height":900},
+		{"id":"e90bd6a14b1e6255","type":"file","file":"docs/dying-earth/Character-stats.md","x":500,"y":0,"width":480,"height":900},
 		{"id":"13486c6ab5fdc882","type":"file","file":"docs/dying-earth/session-notes/33-the-deep-end.md","x":-260,"y":0,"width":720,"height":900}
 	],
 	"edges":[]

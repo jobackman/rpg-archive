@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"28f2dda4960257b6","type":"file","file":"docs/dying-earth/session-notes/31-new-beginnings.md","x":157,"y":-320,"width":603,"height":826},
-		{"id":"a45e4f5960bb7ee3","type":"file","file":"docs/dying-earth/character-stats.md","x":820,"y":-320,"width":400,"height":640},
+		{"id":"a45e4f5960bb7ee3","type":"file","file":"docs/dying-earth/Character-stats.md","x":820,"y":-320,"width":400,"height":640},
 		{"id":"bbfc410e3f71e27b","type":"file","file":"Excalidraw/31-battle-map.md","x":820,"y":380,"width":400,"height":460}
 	],
 	"edges":[]

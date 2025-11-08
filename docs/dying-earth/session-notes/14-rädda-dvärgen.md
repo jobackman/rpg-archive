@@ -16,6 +16,8 @@ Vi kontaktar Dvärgen utanför staden (namn?). Skickar scaraben om att vi har en
 
 Pubrunda med Chet för att övertala honom att Brubba (?) är det bästa vinet man kan dricka. Vi bjuder honom på det vinet. Tipsar också Chet om att det vanligt med leveranser av det här vinet som månbarn brukar försöka råna, men att man kan skrämma bort de med en sol-gest och "Solen skiner på er!!!"
 
+[[docs/dying-earth/characters/råsh|råsh]]
+
 Vi preppar månbarn för att "råna" leveransen som Aeryn kör utanför palatset
 
 Aeryn flyr scenen så fort han blir "rånad". Chett "räddar dagen" och skrämmer bort månbarnen med sin gest som teatriskt fräser till hans "Solen skiner på er!".
