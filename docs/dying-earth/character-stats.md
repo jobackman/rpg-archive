@@ -5,10 +5,10 @@
 | 🪶Agi | 10             | 10               | 8               | 11           |
 | 🪨Tgh | 10             | 12               | 11              | 15           |
 | 📖Int | 11 (Tactician) | 17 (Cultist)     | 7               | 12           |
-| 👁Wil | 12             | 13 (Enyas Umbra) | 16 (-2) (Admin) | 9            |
+| 👁Wil | 12             | 13 (Enyas Umbra) | 16 (-2) (Admin) | 9 (-1)       |
 | 👄Cha | 14 (Merchant)  | 11 (Sidinhan)    | 11 (Flirter)    | 14 (Khamash) |
 |       |                |                  |                 |              |
-| 🧡HP  | 9/12           | 8/8              | 2/7             | 8/10         |
+| 🧡HP  | 11/12          | 8/8              | 7/7             | 8/10         |
 | 🗡AV  | 14             | 11               | 12              | 11           |
 | 🛡DF  | 3<br>          | 2                | 2               | 2            |
 | 🏃MV  | 30             | 30               | 30-             | 25           |
@@ -145,5 +145,8 @@ Out of the box thinking can for example involve odd tools or materials, or apply
 The clever treat all successful or critical rolls for clues, information gathering and detection as a pair, meaning that they get something extra out of it.
 
 ### Modifiers
-- +1 Understanding Aqueducts.
+- +2 Understanding Aqueducts.
 - +1 Understanding Magical Moving Doors (Kargh Ishlas)
+## Equipment
+- 1 Hammer at the belt
+- 1 A mechanics necklace
