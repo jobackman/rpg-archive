@@ -53,7 +53,7 @@ Frågar ut de om hur länge de vart nere, minst en vecka svarar de. Hon var glad
 
 Han berättar att han vart av med sitt bryggarjobb när vattnet tog slut. Han hittade en springa där marken gått upp, kröp ner, gick vilse och försöker bara överleva nu
 
-Göran utbrister "det där är ju min väska!! 😳", råsh ger tillbaka honom hans väska. 
+**Göran** utbrister "det där är ju min väska!! 😳", råsh ger tillbaka honom hans väska. 
 
 Vi frågar om de lärt sig nånting om vad som händer här, Naeryn säger att hon tror inte man ska dricka vattnet. En del av vattnet är **inte bra att dricka**
 
@@ -114,11 +114,11 @@ En fackla brinner ut. Vi backar bakåt och letar efter en annan väg. Jerry M'La
 
 Tar en annan väg. tillbaks i templet. 
 
-Naeryn berättar om en slemmig orm, genomskinligt med vassa tänder berättar Naeryn om, finns här. Råsh känner igen det här som otyg som dyker upp i stora maskinerier. Orm-ål-aktig varelse som gillar de här trånga utrymmena. När de dör så händer det att de exploderar. Det blir lite av en shockwave. 
+Vi hittar slemmiga spår. Naeryn berättar om en slemmig orm, genomskinligt med vassa tänder berättar Naeryn om, finns här. Råsh känner igen det här som otyg som dyker upp i stora maskinerier. Orm-ål-aktig varelse som gillar de här trånga utrymmena. När de dör så händer det att de exploderar. Det blir lite av en shockwave. 
 
 ## Parken
 
-Kommer ut i ett stort rum, en stor äng, stod bädd. Tvärs igenom rummet går en flod. Stor lysane blå kristall som lyser upp rummet. Känner doft av typ jasmin, nåt mer kryddigt. 
+Kommer ut i ett stort rum, en stor äng, stod bädd. Tvärs igenom rummet går en flod. Stor lysadne blå kristall som lyser upp rummet. Känner doft av typ jasmin, nåt mer kryddigt. 
 
 Rouya och jerry går ut bland blommorna, rull resist
 - Jerry success
@@ -132,6 +132,7 @@ Rouya inser att vi har facklor, testar att bränna blommorna. När facklan närm
 
 Vi tar oss igenom rummet, över bron utan problem nu när vi har facklor. 
 
+## Gångarna 
 Fortsätter in i korridoren. Varje gång mellan alla fina salar o händelser är ett montage av att vi går i grottor, faktiskt fina gångar. 
 
 En till bävning, råsh inser att marken vi går på just nu känns lite annourlunda. Det är inte stenplattor längre. Den känns lite lite varm. När han sätter handen på känner han hur det börjar vibrera igen. Det är en korridor framåt, kanal i sidan med vatten. När allt skakar igen så märker vi hur golvet lyfter mot taket. Vi kommer nog inte hinna springa till slutet av gången. Råsh är påväg ner i vattnet med Naeryn, alla är påväg ner i vattnet men Jerry kilar ändå fast armen för att hålla undan taket.  Han stoppar armen mellan taket och golvet. **I onödan**.  
@@ -147,11 +148,12 @@ Alla andra som åker ner i vattnet rullar save:
 
 När jerry låg där och höll tillbaks taket så tar den det som att han är ett hinder. Gången trashar runt och slår sönder en öppning i gången som inte var där innan, som om det var en tunn vägg. Gången är lugn igen.
 
+## The Shrine
 Vi kommer in i ett rum som tycks ha mer marmorplattor igen. Vi får genast vibben av det här är nåt form av shrine. Ett altar, en marmorstaty. Vi har sett diverse pedistaler, men alla har varit borttagna, men den här är hel. 
 
-Statyn är mer åt ormhållet, en ormliknande varelse med ett ansikte som ser nästan mänskligt ut. Vi skulle ha sagt att det är en orm, men en orm som inte bara är en slingande grej, men förgrenande. Ett rotsystem/orm, som förgrenar sig. 
+Statyn är mer åt ormhållet, en ormliknande varelse med ett ansikte som ser nästan mänskligt ut. Vi skulle ha sagt att det är en orm, men en orm som inte bara är en slingande grej, men förgrenande. Ett rotsystem/orm, som förgrenar sig. Ansiktet är mänskligt.
 
-Råsh känner sig mer trygg i att Naeryn är ovetandes. 
+Råsh känner sig mer trygg i att Naeryn är ovetandes (om statyerna, orm, deface:andet). 
 
 Inristiningar i pedistalen med statyn. Rouya försöker se var det står, känns som namn. Naeryn ställer sig bakom och tittar. Hon ser väldigt fundersam ut. Hon tycker sig känna igen namnen, men verkar ovillig att prata. Vi övertygar henne att berätta: **det är namnen på tidigare mekanister**, nånting som alla lärlingar får lära sig tidigt i praktiken. 
 
@@ -165,7 +167,7 @@ Rouya vinkar fram Aeryn till statyn, tar hans hand och lägger på statyn. Han k
 
 Molnet säger:
 
-> Aeryn, min trogne tjänare.. Du är nära nu. Gå djupare och släpp mig fri och jag kommer belöna sig
+> Aeryn, min trogne tjänare.. Du är nära nu. Gå djupare och släpp mig fri och jag kommer belöna dig
 
 > Du tala i gåtor Abaya, jag är en simpel man! Men hur?!
 
