@@ -8,8 +8,8 @@
 | 👁Wil | 12             | 13 (Enyas Umbra) | 16 (-2) (Admin) | 9 (-1)       |
 | 👄Cha | 14 (Merchant)  | 11 (Sidinhan)    | 11 (Flirter)    | 14 (Khamash) |
 |       |                |                  |                 |              |
-| 🧡HP  | 11/12          | 8/8              | 7/7             | 8/10         |
-| 🗡AV  | 14             | 11               | 12              | 11           |
+| 🧡HP  | 8/12           | 8/8              | 2/7             | 8/10         |
+| 🗡AV  | 13             | 11               | 12              | 11           |
 | 🛡DF  | 3<br>          | 2                | 2               | 2            |
 | 🏃MV  | 30             | 30               | 30-             | 25           |
 | 🍀SV  | 8              | 9                | 9               | 11           |
@@ -84,8 +84,8 @@ Inventory:
 1. Dagger
 2. Leather armor
 3. 3 potions
-	1. En ser ut som vatten, men är lite mjölkig av sig
-	2. En som ser mer färgad, ljusblå i färgen (health potion, healar)
+	1. ~En ser ut som vatten, men är lite mjölkig av sig~
+	2. ~En som ser mer färgad, ljusblå i färgen (health potion, healar)~
 	3. En som är mer grå-grumlig, trögflytande som sirap
 
 # Jerry
