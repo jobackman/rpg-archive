@@ -1,3 +1,5 @@
+# 36 - Heart Chamber
+
 <img src="https://github.com/user-attachments/assets/848be028-4a82-424e-be0e-302bb9ba2fb9" />
 
 Naeryn flämtar dramatiskt när hon kommer in i rummet!
@@ -122,7 +124,7 @@ Vi når en vattennivå efter en lång svag sluttning. 2dm vatten att vada igenom
 
 Vi når ett runt rum. I mitten står en staty av metall. Lägger märke till att metall så här djupt känns för "modernt". Brons. Den måste ha skapats när resten av rören och byggena byggdes här. Det här rummet är lite ojämnt. Ojämn miljö. Ovanför porten står det skrivet på gammal serafinska. Råsh tyder:
 
-> "På order av Pendulum har vägen framåt stängts, vidare och för all framtid. Vänd tillbaka."
+> "På order av Pendulum har vägen framåt stängts, vidare och för all tid. Vänd tillbaka."
 
 Dörren framöver kräver en nyckel. Råsh testar om hans medaljong funkar med det här. Trycker in den, börsöker vrida om. Det börjar mullra, statyn börjar röra på sig. Statyn är rostig AF runt benen som stått ivatten. Nånting vitt under benen. Kristallöga som börjar lysa. Maskinen börjar warbla, en sprakig röst börjar säga:
 
@@ -136,7 +138,7 @@ Råsh säger åt Aeryn att lösa det här, så aeryn plockar upp Råsh och **yee
 
 Vi börjar
 
-- Råsh försöker slå med hammaren igen men får inte en bra träff
+- Råsh försöker slå igen, fail
 - Rouya smyger upp bakom statyn för att inspektera vad det vita under benen är. Rullar för det: success. Det är BEN. Nånting organiskt finns där på insidan.
 - Jerry vill lära sig om vad varelsen är för nånting: han lär sig att det är en gammal automaton. Finns olika typer. Den här är gammal och väderbiten, stått här i hundratals år. Ögat, benen där det är exposed, och joints är en svaghet. Han kan få +1 på attacker med den här informationen.
 - Aeryn svingar sitt 2h svärd mot benen, HIT. 7 dmg.

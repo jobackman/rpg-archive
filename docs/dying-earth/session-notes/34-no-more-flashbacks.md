@@ -1,3 +1,5 @@
+# 34 - No More Flashbacks
+
 > Hallå? Du spaceade ut riktigt länge - "**Valox Dunwar**" (mercenary) till aeryn. 
 
 Vi är tillbaks i dungeonen direkt efter striden.. 
@@ -39,7 +41,7 @@ Råsh är på tunn is den 6e.
 
 Råsh tar huvudet ur arslet och slickar på berget för att försöka hjälpa till. Han vill förstå om det är magi eller mekanik. Han kör sin special ability om att lösa non-combat issues och får +6 på rull. Success! 
 
-Han smakar mineralerna, känner igen den distinkta smaken av granit. Osalt. Nånting ovanpå. Nånting känns lite off. Minns tillbaka till när han var blott en yngling på 47 och gick i skolan. Som dvärg fokuserar en stor del av skolningen på de mirakulösa artefakterna. Han känner den här smaken av att nånting har förflyttat sig. Den har lämnat kvar ett spår. Lite svavel efter att nånting har rört på sig. Det påminner om en studie där de pratade om en form av dörr som kan röra på sig. Dörren kan röra sig mellan olika diskreta positioner. Vanligtvis brukar dörrarna vara hjälpsamma eller folk har koll på de, men det låter som att den är door gone rogue. 
+Han smakar mineralerna, känner igen den distinkta smaken av granit. Osalt. Nånting ovanpå. Nånting känns lite off. Minns tillbaka till när han var blott en yngling på 47 och gick i skolan. Som dvärg fokuserar en stor del av skolningen på de mirakulösa artefakterna. Han känner den här smaken av att nånting har förflyttat sig. Den har lämnat kvar ett spår. Lite svavel efter att nånting har rört på sig. Det påminner om en studie där de pratade om en form av dörr som kan röra på sig. Dörren kan röra på sig mellan olika diskreta positioner. Vanligtvis brukar dörrarna vara hjälpsamma eller folk har koll på de, men det låter som att den är door gone rogue. 
 
 Nu när han känner av det här så kan han **ta +1 framåt kring att hitta eller förstå dörren framöver**. 
 
@@ -47,7 +49,7 @@ Råsh minns tillbaks till när han pratade med mäster Urist om gamla artefakter
 
 Råsh har en specialfras för dörren: "**Khárgh-Izlass**"
 
-Råsh förklarar för oss att dörren inte är här nu. Vi är superimpade. Men vi rör oss mot en annan mer obvious öppning (som vi definitivt visste fanns när vi stod och obsessade över en *inte dörr*). 
+Råsh förklarar för oss att dörren inte är här nu. Vi är superimpade. Men vi rör oss mot en annan mer obvious öppning (så vi definitivt visste fanns när vi stod och obsessade över en *inte dörr*). 
 
 När vi är påväg att gå så börjar mäster mekanist lite ändå att de tror problemet är lite djupare ner i akvedukten. De har skickat ner ett gäng mekanister som de inte sett av på ett par dagar nu. Fyra stycken som gick ner. Inte normalt att vara borta så länge. Han tror det är värre än goblin problem. 
 
@@ -131,5 +133,4 @@ Alla börjar jibjabba om vem som ska ner i brunne, areyn tömmer sin vinplunta f
 Jerry är obstinat över att den inte kallade honom för lord. Blir pissig och kräver att den kallar honom för lord. Får rulla men lyckas (tyvärr). Den frågar igen. Jerry säger JA och vattnet sänks.
 
 ## Cliffhanger 
-Vi hör fotstegen av en crowd goblins (antagligen) lång bort i gången. Vi skyndar oss ner i brunnen. Vi spolar nedåt. Längre ner är mer granit/marmor än sten. Vi kommer ner till ett rum, en lägereld, det sitter två individer där. 
-
+Vi hör fotstegen av en crowd goblins (antagligen) lång bort i gången. Vi skyndar oss ner i brunnen. Vi spolar nedåt. Längre ner är mer granit/marmor än sten. Vi kommer ner till ett rum, en lägereld, det sitter två individer där.

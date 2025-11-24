@@ -1,3 +1,5 @@
+# 32 - Badhus Del 2
+
 Fortsätter från fancy bathhouse, när vi accepterat questen. Snackar om vi kanske ska gå till de andra två lordsen av vattnet, men hur hittar vi de? 
 
 Rosh lurar in lite barn med en leksak han hittar på från trash. Snackar med en liten pöjk om Lord tarsis och får höra om de andra lordsen: 

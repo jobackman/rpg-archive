@@ -1,3 +1,5 @@
+# 33 - The Deep End
+
 Aeryn och Rouya har failat sina saves. När de går ner i bassängen känner de snabbt att det känns som att vattnet drar oss ner i mörkret. Aeryn är först, Rouya något efter. 
 
 ## Aeryn
@@ -91,7 +93,7 @@ Jerry hör när de kommer ut ur gatesen och fattar vad han behöver göra. Han b
 
 >Jocke sjunger jättefint irl om gudinnan nikou
 
-Han försöker sedan utropa sig själv som frälsaren som kommer leda de till paradiset. 
+He tries to proclaim himself as the savior who will lead them to paradise.
 Roll: 15 - fail.
 
 Kultisterna kommer upp till han och tittar på hans kroppsbyggnad, är inte övertalade om vad jerry säger, men säger att det är okej att se ut som man gör. Det är strävan som gör oss bra, sen ger de honom en badrock för att skyla sig. 

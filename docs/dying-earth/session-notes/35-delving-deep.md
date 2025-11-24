@@ -1,3 +1,5 @@
+# 35 - Delving Deep
+
 ## Liraq timeline: 
 Fick lite extra info om timelinen upp till hittils vi spelat. 
 
@@ -26,7 +28,7 @@ För ca en vecka sen:
 
 ## Fortättning:
 
-När vi når botten av brunnen är ett galler i botten, samt en stor tung dörr i järn. Vi får upp den, rusar igenom, hör hur chattrandet av goblins fortfarnde är bakom oss.
+När vi reaches botten av brunnen är ett galler i botten, samt en stor tung dörr i järn. Vi får upp den, rusar igenom, hör hur chattrandet av goblins fortfarnde är bakom oss.
 
 Vi har kommit ner till en djupare nivå. Arkitekturen har förändrats. Mycket maskiner ovanför, granit etc. Här mer marmor, pelare, mer grekiskt-romerskt tempel. Arches, stora stenblock. Marmorsstaty, sönderslagen. Råsh tycker det känns som bra hantverk. Äldre. Mer nött. Mjukare sten. 
 
@@ -155,7 +157,7 @@ Statyn är mer åt ormhållet, en ormliknande varelse med ett ansikte som ser n�
 
 Råsh känner sig mer trygg i att Naeryn är ovetandes (om statyerna, orm, deface:andet). 
 
-Inristiningar i pedistalen med statyn. Rouya försöker se var det står, känns som namn. Naeryn ställer sig bakom och tittar. Hon ser väldigt fundersam ut. Hon tycker sig känna igen namnen, men verkar ovillig att prata. Vi övertygar henne att berätta: **det är namnen på tidigare mekanister**, nånting som alla lärlingar får lära sig tidigt i praktiken. 
+Inristiningar i pedistalen med statyn. Rouya försöker se var det står, känns som namn. Naeryn ställer sig bakom och tittar. Hon tycker sig känna igen namnen, men verkar ovillig att prata. Vi övertygar henne att berätta: **det är namnen på tidigare mekanister**, nånting som alla lärlingar får lära sig tidigt i praktiken. 
 
 Jerry rullar in och försöker mansplaina att det är tidigare mekanister, failar rollen. Naeryn går ner i klockan på "Gilla jerry". 
 
@@ -163,7 +165,7 @@ Lagret av damm i det här rummet och det faktum att alla andra statyer vart sön
 
 Råsh inspekterar statyn och ser att statyn är fin på ett sätt som man inte på många åldrar kunnat göra. Inskriptionerna är mycker mycket nyare tillägg än vad statyn är. 
 
-Rouya vinkar fram Aeryn till statyn, tar hans hand och lägger på statyn. Han känner någon förnimmelse... Aeryn transporteras bort, han står på akvedukten igen. Utan Aeris. Men Molnet som är diffust är där. Silhouetten från statyn är där..
+Rouya vinkar fram Aeryn till statyn, tar his hand and puts it on the statue. He feels some sensation... Aeryn is transported away, he stands on the aqueduct again. Without Aeris. But the cloud that is diffuse is there. The silhouette of the statue is there..
 
 Molnet säger:
 
@@ -230,4 +232,4 @@ Göran är också här.
 
 **+4 exp för alla**
 
-## Alla levlar upp! 
+## Alla levlar upp!
